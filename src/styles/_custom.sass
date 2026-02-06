@@ -1,14 +1,22 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 3.0s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 60%
+    right: 65%
+    width: 90px
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 15%
+    right: 21%
+    width: 90px
+  &-3
+    animation: float1 2.0s ease-in-out infinite alternate
+    position: absolute
+    top: 66%
+    right: 23%
+    width: 90px
 
 @keyframes float1
   0%
@@ -20,11 +28,64 @@
 .banner-principal .tarjeta
   background-position: left 50% !important
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 580px !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
 figcaption
   font-weight: normal
+
+
+.banner-principal
+  @media (max-width: $bp-max-md)
+    .tarjeta
+      background-image: url('../assets/curso/portada/tablet.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 8% !important 
+      padding-right: 5% !important
+  @media (max-width: 767px) 
+    .tarjeta
+      background-image: url('../assets/curso/portada/movil.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 15% !important 
+      padding-right: 5% !important
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/portada.png") !important
+
+
+.img-t
+  width: auto
+  height: auto 
+.img-a
+  display: block
+  margin: auto
+
+
+.titulo-sexto
+  border-left: 10px solid
+  padding: 6px 0 6px 8px
+  border-left-color: #E5D9C5 !important
+
+.titulo-segundo:after 
+  content: ''
+  display: block
+  height: 4.5px
+  width: 140px
+  border-left: solid 50px
+  border-left-color: #E5D9C5
+  background-color: #e8e8e8
  
+
+//INTRO
+
+.bg1
+  background-color: #DAF5EE
