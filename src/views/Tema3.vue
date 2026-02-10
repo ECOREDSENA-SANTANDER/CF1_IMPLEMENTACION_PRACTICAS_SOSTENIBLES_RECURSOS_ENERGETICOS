@@ -7,6 +7,17 @@
         span 3
       h1 Tema 3
 
+    separador
+    #t_3_1.titulo-segundo.mb-5
+      h2
+
+    separador
+    #t_3_2.titulo-segundo.mb-5
+      h2
+
+
+
+      
 </template>
 
 <script>

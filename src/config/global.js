@@ -36,13 +36,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Fundamentos de sostenibilidad y análisis de consumo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Consumo energético: concepto y análisis económico',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Aplicación práctica del análisis de consumo',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Sostenibilidad: definición y características',
+            hash: 't_1_3',
           },
         ],
       },

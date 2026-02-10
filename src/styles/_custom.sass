@@ -2,21 +2,21 @@
   &-1
     animation: float1 3.0s ease-in-out infinite alternate
     position: absolute
-    top: 60%
-    right: 65%
-    width: 90px
+    top: 30%
+    right: 58%
+    width: 100px
   &-2
     animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 15%
-    right: 21%
-    width: 90px
+    top: 55%
+    right: 78%
+    width: 100px
   &-3
     animation: float1 2.0s ease-in-out infinite alternate
     position: absolute
-    top: 66%
-    right: 23%
-    width: 90px
+    top: 54%
+    right: 10%
+    width: 100px
 
 @keyframes float1
   0%
@@ -25,10 +25,16 @@
     transform: translateY(0px)
   
 
-.banner-principal .tarjeta
-  background-position: left 50% !important
+.col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
+  flex: 0 0 auto !important
+  width: 53% !important
+  @media screen and (max-width: $bp-max-md)
+    width: 95% !important
+
+
+
 .banner-principal__row .banner-principal__img
-  width: 580px !important
+  width: 550px !important
   @media screen and (max-width: $bp-max-xl)
     width: 400px !important
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
@@ -73,7 +79,7 @@ figcaption
 .titulo-sexto
   border-left: 10px solid
   padding: 6px 0 6px 8px
-  border-left-color: #E5D9C5 !important
+  border-left-color: #534EDD !important
 
 .titulo-segundo:after 
   content: ''
@@ -81,7 +87,7 @@ figcaption
   height: 4.5px
   width: 140px
   border-left: solid 50px
-  border-left-color: #E5D9C5
+  border-left-color: #534EDD
   background-color: #e8e8e8
  
 
@@ -89,3 +95,363 @@ figcaption
 
 .bg1
   background-color: #DAF5EE
+
+
+//TEMA1
+
+.bloque-texto-g.color-acento-contenido 
+    background-color: #FBF35D
+
+
+.bg2
+  background-color: #36C59D
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  border-radius: 20px
+  transition: all 0.3s ease
+  cursor: pointer
+  &:hover 
+    background-color: #FCF0E8
+    transform: translateY(-5px)
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15)
+  .bg3
+    background-color: white
+    width: fit-content
+    margin: 0 auto
+    transition: all 0.3s ease  
+  h4
+    color: black
+    transition: color 0.3s ease
+
+
+.bg4
+  background-color: #F3F9FF
+
+
+.bg5
+  background-color: #A9B9F7
+  border-radius: 27px
+  @media only screen and (min-width: 1024px) 
+    height: 600px
+  @media only screen and (max-width: 767px)
+    height: auto
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    height: auto
+  display: flex
+  justify-content: center
+  align-items: center
+
+
+.acordion__accion__btn--b
+  background-color: #A8ED2F
+  transition: all 0.3s ease-out
+  border: #A8ED2F
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15)
+.acordion__activo
+  background-color: #DAF5EE!important
+  transition: all 0.3s ease-out
+.tarjeta--grey
+  border-radius: 20px
+  background-color: #A3E2D9
+.acordion.press .acordion__activo .acordion__accion__btn--b
+  background-color: #534EDD
+  color: white
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15)
+
+
+.bg6
+  background-color: #1DB4C9
+
+
+.bg7
+  background-color: #B8E8F0
+
+
+.bg8
+  background-color: #505EA3
+  border-radius: 50px
+  width: fit-content
+
+
+.bg9
+  background-color: #A9B9F7
+  border-radius: 18px
+
+
+.titulo
+  background-color: #A9B9F7
+  border-radius: 50px 60px 20px 50px
+  width: fit-content
+  padding: 8px 20px 8px 75px
+  position: relative
+  display: inline-flex
+  align-items: center
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    padding: 8px 20px 8px 65px
+.titulo img
+  width: 63px
+  height: 63px
+  position: absolute
+  top: 50%
+  left: 0px 
+  transform: translateY(-50%)
+  object-fit: contain
+  z-index: 1
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    width: 55px
+    height: 55px
+  @media only screen and (max-width: 767px)
+    width: 55px
+    height: 55px
+
+
+.fa-star
+  color: #534EDD
+
+
+.fas.fa-pencil
+  color: #534EDD
+
+
+.subtitulo
+  margin-bottom: 0px
+  border-left: 8px solid  #534EDD !important
+  padding: 34px 0px 15px 0px
+  border-radius: 50px
+  @media only screen and (max-width: 767px)
+    display: none
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    display: none
+.ssu
+  background-color: #A9B9F7
+  border-radius: 0px 10px 10px 0px
+  width: fit-content
+  @media only screen and (max-width: 767px)
+    border-radius: 15px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 15px
+
+
+.tarjetaf
+  background: url('../assets/curso/tema1/fondo1.png')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  border-radius: 20px
+  overflow: hidden
+  transition: transform 0.3s ease
+.slyder-a__bullets__item 
+  background-color: #505EA3
+  border-color: #505EA3
+.slyder-a__bullets__item--active 
+  background-color: #A8ED2F !important
+  border-color: #A8ED2F !important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  background-color: #A8ED2F
+  border: 1px solid #A8ED2F
+  opacity: 1
+
+
+.acordion__accion__btn--a
+  background-color: #A8ED2F
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+.acordion .tarjeta--azull
+  background-color: #A3E2D9
+.acordion__accion__btn--a i, .acordion__accion__btn--b i .activ
+  color: black
+.acordion.activ .acordion__activo .acordion__accion__btn--a
+  background-color: #534EDD
+  i, 
+    color: white !important
+.activ
+  .acordion__activo 
+    background-color: #CDF0E6!important
+    transition: all 0.3s ease-out
+
+
+.bg10
+  background-color: #534EDD
+  width: fit-content
+  margin: auto
+.bg11
+  background-color: #A3E2D9
+  border-radius: 20px
+.bg12
+  background-color: #DAF5EE
+  border-radius: 20px
+
+
+.bg13
+  background-color: #DAF5EE
+  border-radius: 17px
+
+
+.sob
+  margin-left: -25% 
+  z-index: 2
+  margin-bottom: -2%
+.sobr
+  @media (max-width: 1300px)
+    display: none
+.pad
+  @media (min-width: 992px) 
+    .pe-lg-5 
+      padding-right: 7rem !important
+  @media (max-width: 1300px)
+    .pe-lg-5 
+      padding-right: 0rem !important
+@media (max-width: 1300px)
+  .col-lg-9.com
+    flex: 0 0 auto
+    width: 100%
+.bg14
+  background-color: #A3E2D9
+  border-radius: 18px 0 0 0
+.bg15
+  background-color: #AAE0D8
+.bg16
+  background-color: #A3E2D9
+  border-radius: 0 0 0 18px
+
+
+.tarjeta-numerada.color-acento-botones .tarjeta-numerada__numero 
+  background-color: #FBF35D
+.tarjeta-numerada.color-acento-botones .tarjeta-numerada__numero div 
+  color: black
+.tarjeta-numerada.color-acento-botones
+  border: solid 4px #FBF35D
+.tarjeta-numerada
+  border: solid 4px
+.tarjeta-numerada.color-acento-contenido .tarjeta-numerada__numero div 
+  color: white
+.tarjeta-numerada.color-secundario .tarjeta-numerada__numero div 
+  color: black
+.tarjeta-numerada.color-primario .tarjeta-numerada__numero div 
+  color: black
+
+
+.fa-angle-right.t1
+  color: #A8ED2F
+
+
+.pasos-a__linea__esquina__linea 
+    border: 3px solid
+    width: 100%
+    position: relative
+    border-radius: 0px
+.pasos-a.color-primario .pasos-a__circle 
+    background-color: #534EDD
+.pasos-a.color-primario .pasos-a__circle div 
+    color: white
+.pasos-a.color-primario .pasos-a__numero::after
+    border-left-color: #534EDD
+.pasos-a.color-primario .pasos-a__linea .hor-line 
+    border-top-color: #534EDD
+.pasos-a.color-primario .pasos-a__linea__esquina__linea 
+    border-color:#534EDD
+@media only screen and (max-width: 767px)
+  .cel
+    display: none
+@media only screen and (min-width: 768px) and (max-width: 1023px)
+  .cel
+    display: none
+
+
+.separadort1
+  border-bottom: 1px solid #B0C0D2
+
+
+.bl1
+  position: relative
+  overflow: hidden
+.enci
+  position: absolute
+  bottom: 0
+  right: 5rem
+  width: 26% 
+  z-index: 1
+  @media (max-width: 1300px)
+    display: none
+@media (min-width: 768px) and (max-width: 1024px)
+  .col-lg-8.comi
+    flex: 0 0 auto
+    width: 75%
+@media (max-width: 1300px)
+  .col-lg-8.comi
+    flex: 0 0 auto
+    width: 100%
+
+.bloque-texto-a.color-secundario:before
+  background-color: #36C59D
+  @media only screen and (max-width: 767px)
+    border-radius: 0px 
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 0px 
+  @media only screen and (min-width: 1024px) 
+    border-radius: 0px 195px 195px 0px
+  @media (max-width: 1300px)
+    border-radius: 0px 
+.bloque-texto-a.color-secundario
+  background-color:#A3E2D9
+  @media only screen and (max-width: 767px)
+    border-radius: 0px 195px 195px 0px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 0px 195px 195px 0px
+  @media only screen and (min-width: 1024px) 
+    border-radius: 0px 195px 195px 0px
+
+
+.bg17
+  background-color: #F3F9FF
+  border-radius: 27px
+
+
+.bg18
+  background-color: #DAF5EE
+  border-radius: 14px
+
+
+.cont_5_1, .cont_5_1 *
+  position: relative
+.cont_5_1:before
+  content: ''
+  position: absolute
+  width: 125%
+  height: 70%
+  top: 15%
+  bottom: 15%
+  left: -15%
+  background-size: 100% 100%
+.crd_hover_txt
+  position: relative
+  padding: 0 !important
+  overflow: hidden !important
+  border-radius: 0px
+.crd_hover_txt .crd_hover_txt--body
+  position: absolute
+  padding: 1.5rem
+  width: 100%
+  bottom: 0
+  transition: all .5s ease-in-out
+  transform: translateY(calc(100% - 3.85rem))
+.crd_hover_txt:hover .crd_hover_txt--body
+  transition: all .5s ease-in-out
+  transform: translateY(0)
+  background-color: #AAEDDA!important
+  .rot
+    transform: rotate(180deg)
+.crd_hover_txt:hover .crd_hover_txt--body *
+  color: black !important
+.colt
+  background-color: #AAEDDA
+.mtop
+  margin-top: -18px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    margin-top: -25px
+@media (max-width: 767px)
+  .txp
+    font-size: 0.75em !important
+@media (min-width: 768px) and (max-width: 1024px)
+  .txp
+    font-size: 0.85em
