@@ -60,14 +60,33 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Ciclo de vida, impactos y principios de gestión sostenible',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Impactos asociados al uso energético',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Principios de sostenibilidad energética',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Contexto energético nacional y regulación',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Regulación y sostenibilidad',
+            hash: 't_3_1',
+          },
+        ],
       },
     ],
     subMenu: [
