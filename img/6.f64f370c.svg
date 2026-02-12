@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="581" viewBox="0 0 820 581">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_407714" data-name="Rectángulo 407714" width="820" height="581" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1110698" data-name="Grupo 1110698" transform="translate(-389.711 -1973.5)">
+    <g id="Grupo_1110659" data-name="Grupo 1110659" transform="translate(389.711 1973.5)">
+      <g id="Grupo_1110652" data-name="Grupo 1110652">
+        <g id="Grupo_1110651" data-name="Grupo 1110651" clip-path="url(#clip-path)">
+          <path id="Trazado_888040" data-name="Trazado 888040" d="M192.312,273.1l-58.6-7.6A251.288,251.288,0,0,1,310.719,57.358l16.944,56.611A192.127,192.127,0,0,0,192.312,273.1" transform="translate(22.144 9.499)" fill="#5b6b29"/>
+          <path id="Trazado_888041" data-name="Trazado 888041" d="M364.716,550.839A251.527,251.527,0,0,1,243.307,519.6L271.9,467.89a192.293,192.293,0,0,0,92.82,23.858c105.957,0,192.161-86.2,192.161-192.162s-86.2-192.161-192.161-192.161V48.333A251.253,251.253,0,0,1,542.378,477.249a249.608,249.608,0,0,1-177.662,73.59" transform="translate(40.294 8.004)" fill="#14a7be"/>
+          <path id="Trazado_888042" data-name="Trazado 888042" d="M306.374,114.089,290.9,57.058a251.649,251.649,0,0,1,57.187-8.6l2.023,59.057a192.432,192.432,0,0,0-43.739,6.571" transform="translate(48.176 8.026)" fill="#dfe4a5"/>
+          <path id="Trazado_888043" data-name="Trazado 888043" d="M180.3,415.2a249.365,249.365,0,0,1-48.39-148.264c0-7.143.3-14.364.906-21.461L191.7,250.46c-.46,5.447-.695,10.991-.695,16.477A190.66,190.66,0,0,0,227.983,380.3Z" transform="translate(21.845 40.653)" fill="#2a3422"/>
+          <path id="Trazado_888044" data-name="Trazado 888044" d="M243.869,460.169A252.541,252.541,0,0,1,201.937,429.1l39.907-43.583a193.158,193.158,0,0,0,32.1,23.787Z" transform="translate(33.443 63.845)" fill="#ffe64b"/>
+          <path id="Trazado_888045" data-name="Trazado 888045" d="M201.516,428.256a253.7,253.7,0,0,1-22.51-24.632l46.16-36.894A193.976,193.976,0,0,0,242.408,385.6Z" transform="translate(29.645 60.734)" fill="#899e22"/>
+          <path id="Trazado_888046" data-name="Trazado 888046" d="M367.82,471.007a180.306,180.306,0,0,1-143.255-70.131l24.846-19.318A149.037,149.037,0,0,0,367.82,439.535c82.645,0,149.882-67.237,149.882-149.882s-67.237-149.88-149.882-149.88V108.3c100,0,181.354,81.355,181.354,181.351S467.818,471.007,367.82,471.007" transform="translate(37.19 17.936)" fill="#35a16f"/>
+        </g>
+      </g>
+      <text id="_64" data-name="64" transform="translate(292.472 340.18)" fill="#25614c" font-size="158" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">64</tspan></text>
+      <text id="_" data-name="%" transform="translate(475.006 319.768)" fill="#a6bd14" font-size="57" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">%</tspan></text>
+      <text id="Baja_en_carbono" data-name="Baja en carbono" transform="translate(291.727 378.757)" fill="#204f41" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Baja en carbono</tspan></text>
+      <g id="Grupo_1110654" data-name="Grupo 1110654">
+        <g id="Grupo_1110653" data-name="Grupo 1110653" clip-path="url(#clip-path)">
+          <text id="Petróleo:_4.0_" data-name="Petróleo: 4.0%" transform="translate(0 19.481)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.006em">P</tspan><tspan y="0">et</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">óleo: 4.0%</tspan></text>
+          <text id="Gas:_19.2_" data-name="Gas: 19.2%" transform="translate(0 132.666)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Gas: 19.2%</tspan></text>
+          <text id="Carbón:" transform="translate(0 457.585)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Carbón:</tspan></text>
+          <text id="_12.4_" data-name="12.4%" transform="translate(0 486.521)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">12.4%</tspan></text>
+          <text id="Biocombustible" transform="translate(0 515.455)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Biocombustible</tspan></text>
+          <text id="S:_2.6_" data-name="S: 2.6%" transform="translate(0 544.39)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">S: 2.6%</tspan></text>
+          <text id="Solar:_3.7_" data-name="Solar: 3.7%" transform="translate(0 573.325)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Sola</tspan><tspan y="0" letter-spacing="-0.06em">r</tspan><tspan y="0">: 3.7%</tspan></text>
+        </g>
+      </g>
+      <text id="Energía" transform="translate(720.665 313.856)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ene</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">gía</tspan></text>
+      <g id="Grupo_1110656" data-name="Grupo 1110656">
+        <g id="Grupo_1110655" data-name="Grupo 1110655" clip-path="url(#clip-path)">
+          <text id="hidroeléc" transform="translate(720.665 342.791)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">hid</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">oeléc</tspan></text>
+        </g>
+      </g>
+      <text id="trica:" transform="translate(720.665 371.726)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">trica:</tspan></text>
+      <text id="_58.1_" data-name="58.1%" transform="translate(720.665 400.662)" fill="#161615" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">58.1%</tspan></text>
+      <g id="Grupo_1110658" data-name="Grupo 1110658">
+        <g id="Grupo_1110657" data-name="Grupo 1110657" clip-path="url(#clip-path)">
+          <path id="Trazado_888047" data-name="Trazado 888047" d="M137.946,11.464H330.484A17.656,17.656,0,0,1,348.14,29.119V75.37" transform="translate(22.845 1.899)" fill="none" stroke="#171c2b" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Trazado_888048" data-name="Trazado 888048" d="M112.184,111.207h63.188c12.062,0,19.966,7.905,19.966,17.655v46.25" transform="translate(18.579 18.417)" fill="none" stroke="#171c2b" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Trazado_888049" data-name="Trazado 888049" d="M116.808,491.515h97.835c12.061,0,19.966-7.905,19.966-17.655v-46.25" transform="translate(19.344 70.816)" fill="none" stroke="#171c2b" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Línea_4398" data-name="Línea 4398" x2="97.835" transform="translate(127.989 476.708)" fill="none" stroke="#171c2b" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Línea_4399" data-name="Línea 4399" x2="73.144" transform="translate(631.995 306.71)" fill="none" stroke="#171c2b" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Trazado_888050" data-name="Trazado 888050" d="M612.605,263.708a6.578,6.578,0,1,1-6.578-6.577,6.577,6.577,0,0,1,6.578,6.577" transform="translate(99.274 42.583)" fill="#2b4290"/>
+          <path id="Trazado_888051" data-name="Trazado 888051" d="M123,482.71a6.578,6.578,0,1,1-6.578-6.578A6.577,6.577,0,0,1,123,482.71" transform="translate(18.191 78.852)" fill="#2b4290"/>
+          <path id="Trazado_888052" data-name="Trazado 888052" d="M115.733,409.427a6.578,6.578,0,1,1-6.578-6.578,6.577,6.577,0,0,1,6.578,6.578" transform="translate(16.988 66.715)" fill="#2b4290"/>
+          <path id="Trazado_888053" data-name="Trazado 888053" d="M119.7,111.519a6.578,6.578,0,1,1-6.578-6.578,6.577,6.577,0,0,1,6.578,6.578" transform="translate(17.644 17.379)" fill="#2b4290"/>
+          <path id="Trazado_888054" data-name="Trazado 888054" d="M149.421,12.4a6.578,6.578,0,1,1-6.578-6.578,6.577,6.577,0,0,1,6.578,6.578" transform="translate(22.567 0.964)" fill="#2b4290"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
