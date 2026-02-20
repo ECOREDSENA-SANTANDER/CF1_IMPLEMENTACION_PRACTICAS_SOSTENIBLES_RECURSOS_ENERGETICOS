@@ -56,7 +56,7 @@
         .bg4.p-4.mb-2
           .titulo-sexto
             h5 Figura 1. 
-            | #[em Diagrama del desarrollo sostenible]
+            | Diagrama del desarrollo sostenible
           img.mb-0(src='@/assets/curso/tema1/5.png' alt='Diagrama del desarrollo sostenible que muestra la intersección de los pilares social, económico y medioambiental, destacando sus áreas de equilibrio como equitativo, viable y vivible.')
         figcaption Fuente: Sucerman, (2024).
       .col-lg-6
@@ -124,7 +124,7 @@
       .col-lg-12
         .titulo-sexto
           h5 Figura 2. 
-          | #[em Diferencia entre kW y kVA]
+          | Diferencia entre kW y kVA
         img.mb-2(src='@/assets/curso/tema1/10.png' alt='Imagen comparativa que utiliza un vaso de cerveza para ilustrar la relación entre potencia activa, potencia reactiva y potencia aparente, diferenciando energía útil y energía perdida.')
         figcaption Fuente: Equitel. (2025). 
 
@@ -272,7 +272,7 @@
                 p.mb-4 El costo total que paga el usuario por cada kWh consumido se conoce como Costo Unitario de prestación del servicio (CU). Este costo no es uniforme y se compone de varios elementos definidos por la regulación de la Comisión de Regulación de Energía y Gas (CREG). Entender estos componentes es esencial para determinar la viabilidad económica de cualquier proyecto de eficiencia
                 .titulo-sexto
                   h5 Figura 3. 
-                  | #[em Ecuación del costo unitario de energía]
+                  | Ecuación del costo unitario de energía
                 img.img-t.img-a(src='@/assets/curso/tema1/18.svg' alt='Ecuación que representa el costo unitario de energía, expresada como CU igual a la suma de varios componentes: Ci, Ti, Di, Ci, Ri y Pi.')
               .col-lg-5.col-md-8.col-10
                 img.mb-0(alt="" src="@/assets/curso/tema1/17.png")
@@ -360,7 +360,7 @@
       .col-lg-6
         .titulo-sexto
           h5 Figura 4. 
-          | #[em Ejemplo factura ENEL parte frontal 1]
+          | Ejemplo factura ENEL parte frontal 1
         img.mb-2(src='@/assets/curso/tema1/22.png' alt='Imagen de una factura de energía de Enel que muestra el número de cliente, la información del titular y un aviso destacado sobre la entrega del recibo.perdida.')
         figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. <br>En la Figura 4 los números corresponden de la siguiente manera:
       .col-lg-6
@@ -381,7 +381,7 @@
       .col-lg-6
         .titulo-sexto
           h5 Figura 5. 
-          | #[em Ejemplo factura ENEL parte frontal 2]
+          | Ejemplo factura ENEL parte frontal 2
         img.mb-2(src='@/assets/curso/tema1/23.png' alt='Imagen de una factura de energía de Enel que muestra el número de cliente, la información del titular y un aviso destacado sobre la entrega del recibo.')
         figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
       .col-lg-6
@@ -434,7 +434,7 @@
       .col-lg-6
         .titulo-sexto
           h5 Figura 6. 
-          | #[em Ejemplo factura ENEL parte frontal 3]
+          | Ejemplo factura ENEL parte frontal 3
         img.mb-2(src='@/assets/curso/tema1/25.png' alt='Gráfica de consumo de energía que muestra el comportamiento mensual, los días facturados, el consumo total del mes y los valores aplicados en la factura.')
         figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
       .col-lg-6
@@ -473,7 +473,7 @@
       .col-lg-6
         .titulo-sexto
           h5 Figura 7. 
-          | #[em Ejemplo factura ENEL parte frontal 4]
+          | Ejemplo factura ENEL parte frontal 4
         img.mb-2(src='@/assets/curso/tema1/26.png' alt='Imagen con información sobre los medios de pago de una factura de servicios públicos, incluyendo opciones presenciales, virtuales y puntos de atención al usuario.')
         figcaption Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
       
@@ -520,7 +520,7 @@
         .col-lg-8
           .titulo-sexto
             h5 Figura 8. 
-            | #[em Ejemplo factura ENEL parte posterior 1]
+            | Ejemplo factura ENEL parte posterior 1
           img.mb-2(src='@/assets/curso/tema1/27.png' alt='Resumen del valor total a pagar en una factura de energía, mostrando los componentes cobrados y las fechas de pago oportuno, suspensión y lectura del medidor.')
           figcaption Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
       
@@ -550,7 +550,7 @@
             .col-lg-12
               .titulo-sexto
                 h5 Figura 9. 
-                | #[em Ejemplo factura ENEL parte posterior 2]
+                | Ejemplo factura ENEL parte posterior 2
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-9
               img.mb-2(src='@/assets/curso/tema1/28.png' alt='Resumen de los valores detallados en la factura de energía y aseo, mostrando los cobros desglosados por conceptos, subtotales, totales por servicio y datos de facturación del usuario.')

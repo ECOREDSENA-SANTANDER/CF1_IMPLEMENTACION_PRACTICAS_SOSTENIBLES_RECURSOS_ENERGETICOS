@@ -70,7 +70,7 @@
       .col-lg-12
         .titulo-sexto
           h5 Figura 10. 
-          | #[em Ejemplo de ciclo de vida]
+          | Ejemplo de ciclo de vida
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-10
             img.mb-4(src='@/assets/curso/tema2/7.svg' alt='Diagrama que representa las etapas del ciclo de vida de un producto desde la extracción de materias primas hasta el fin de vida, mostrando entradas, salidas y flujos de reutilización y reciclaje.')
@@ -89,7 +89,7 @@
       .col-lg-12
         .titulo-sexto
           h5 Tabla 1. 
-          | #[em Ejemplo de impactos asociados al uso energético]
+          | Ejemplo de impactos asociados al uso energético
         .tabla-a.tab1
           table
             thead

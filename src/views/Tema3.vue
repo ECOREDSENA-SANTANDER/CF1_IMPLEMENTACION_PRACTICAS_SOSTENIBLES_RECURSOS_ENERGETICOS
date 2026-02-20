@@ -55,7 +55,7 @@
         .bg4.p-4.mb-2
           .titulo-sexto.mb-4
             h5 Figura 11. 
-            | #[em Composición matriz energética colombiana para el año 2024]
+            | Composición matriz energética colombiana para el año 2024
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-8
               img.mb-0(src='@/assets/curso/tema3/6.svg' alt='Gráfico circular que muestra la composición de la matriz eléctrica de Colombia, donde el 64 % corresponde a fuentes bajas en carbono, principalmente hidroeléctrica con un 58.1 %, seguida de gas, carbón, solar, biocombustibles y petróleo. Enlace: https://lowcarbonpower.org/es/region/Colombia')
@@ -91,7 +91,7 @@
         .bg4.p-4.mb-2
           .titulo-sexto.mb-4
             h5 Figura 12. 
-            | #[em Proyectos de generación de energía para el año 2024]
+            | Proyectos de generación de energía para el año 2024
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-8
               img.mb-0(src='@/assets/curso/tema3/8.svg' alt='Mapa de Colombia que muestra, por departamentos, la ubicación y capacidad en megavatios de diferentes proyectos de generación energética instalados en 2024. Enlace: https://andesco.org.co/en-el-primer-semestre-del-2024-con-el-ingreso-de-40-proyectos-nuevos-se-fortalece-la-seguridad-del-sistema-interconectado-nacional/')
@@ -107,7 +107,7 @@
       .col-lg-6
         .titulo-sexto.mb-lg-5.mb-4
           h5 Figura 13. 
-          | #[em Tipos de proyectos de generación de energía para el año 2024]
+          | Tipos de proyectos de generación de energía para el año 2024
         img.mb-4(src='@/assets/curso/tema3/9.svg' alt='Tabla que muestra la capacidad efectiva neta en megavatios de tres tecnologías de generación eléctrica en Colombia: hidráulica (13.220 MW, 63,7 %), térmica (6.274 MW, 30,2 %) y solar (1.273 MW, 6,1 %). Enlace: https://www.xm.com.co/noticias/7028-en-el-primer-semestre-del-2024-con-el-ingreso-de-40-proyectos-nuevos-se-fortalece-la')
         figcaption Fuente: Andesco (2024).
 
@@ -168,7 +168,7 @@
       .col-lg-12
         .titulo-sexto
           h5 Tabla 2. 
-          | #[em Marco normativo fundamental]
+          | Marco normativo fundamental
         .tabla-a.tab2
           table
             thead
