@@ -201,7 +201,7 @@ export default {
     {
       termino: 'Factor de emisión',
       significado:
-        'coeficiente utilizado para cuantificar la cantidad de Gases de Efecto Invernadero (GEI) que se emiten por cada unidad de energía consumida o producida (ejemplo: kgCO2 / kWh).',
+        'coeficiente utilizado para cuantificar la cantidad de Gases de Efecto Invernadero (GEI) que se emiten por cada unidad de energía consumida o producida (ejemplo: kg CO<sub>2</sub> / kWh).',
     },
     {
       termino: 'Huella de carbono',
@@ -355,8 +355,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -365,13 +365,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

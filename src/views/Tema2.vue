@@ -101,7 +101,7 @@
               tr
                 td.text-center #[b Ambiental]
                 td Alteraciones negativas en el entorno natural y agotamiento de recursos.
-                td Emisiones de GEI (CO2, Metano), contaminación de agua y suelo, deforestación, ruido.
+                td Emisiones de GEI (CO#[sub 2], Metano), contaminación de agua y suelo, deforestación, ruido.
               
               tr
                 td.text-center #[b Técnico]
@@ -128,7 +128,7 @@
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-6.mb-lg-0.mb-5
         .bg19.p-4
-          p.mb-lg-2.mt-lg-3.mx-lg-3.mx-0.mb-0.mt-0 El impacto ambiental más crítico y medible es la generación de Gases de Efecto Invernadero (GEI). El CO2 es el principal indicador. La capacidad de diagnosticar y valorar el impacto energético se traduce en saber:
+          p.mb-lg-2.mt-lg-3.mx-lg-3.mx-0.mb-0.mt-0 El impacto ambiental más crítico y medible es la generación de Gases de Efecto Invernadero (GEI). El CO#[sub 2] es el principal indicador. La capacidad de diagnosticar y valorar el impacto energético se traduce en saber:
       .col-lg-2.d-none.d-lg-block
         img(src='@/assets/curso/tema2/9.svg' alt='')
       .col-lg-4
@@ -139,7 +139,7 @@
               p.mb-0 Cuántos kWh se consumen (de la factura).
             li.d-flex.mb-0
               i.fas.fa-star.t2
-              p.mb-0 Cuál es el factor de emisión de la fuente de energía (ej. kg \ CO2 por kWh generado).
+              p.mb-0 Cuál es el factor de emisión de la fuente de energía (ej. kg \ CO#[sub 2] por kWh generado).
             li.d-flex.mb-0
               i.fas.fa-star.t2
               p.mb-0 Cuál es la huella de carbono del proceso.

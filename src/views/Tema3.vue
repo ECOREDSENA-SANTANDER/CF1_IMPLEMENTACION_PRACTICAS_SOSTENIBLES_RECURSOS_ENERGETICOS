@@ -101,7 +101,7 @@
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-6
         p.mb-lg-3.mb-4 De los 32 proyectos de generación, 29 son de tecnología solar y 3 térmicas. Asimismo, 12 son de generación distribuida, es decir, plantas que generan energía eléctrica con capacidad instalada menor a 1 MW y que se encuentra instalada cerca de los centros de consumo; y 5 son autogeneradores a gran escala que entregan energía al SIN, los cuales están reglamentados por la resolución CREG 174 de 2021.
-        p.mb-lg-3.mb-4 Durante el primer semestre, entraron en operación las primeras plantas solares despachadas centralmente: portón del sol de 102 MW y el paso de 68 MW. A estas se sumaron 5 plantas: Tepuy de 83 MW, la unión de 100 MW, fundación de 90 MW, la loma de 150 MW y la mata de 80 MW. 
+        p.mb-lg-3.mb-4 Durante el primer semestre, entraron en operación las primeras plantas solares despachadas centralmente: Portón del Sol de 102 MW y El Paso de 68 MW. A estas se sumaron 5 plantas: Tepuy de 83 MW, La Unión de 100 MW, Fundación de 90 MW, La Loma de 150 MW y La Mata de 80 MW. 
         .bg25.p-4.mb-lg-0.mb-5
           p.mb-0 Estas plantas aportan 673 MW a la capacidad efectiva neta del SIN. Además, la capacidad del sistema se vio reforzada con la entrada en operación de la planta térmica termocaribe 3 de 52 MW. Con lo anterior, a 30 de junio de 2024 la matriz de generación del SIN tiene los siguientes porcentajes de participación por tecnología: 
       .col-lg-6
@@ -153,10 +153,10 @@
                   p.mb-0 Es la normativa más reciente y estratégica. Fortalece los instrumentos de la URE y la integración de las ERNC.
                 li.d-flex.mb-4
                   i.fas.fa-star
-                  p.mb-0 Incentivos clave: establece beneficios tributarios (ejemplo: deducción de renta, exención de IVA y arancel) para proyectos e inversiones en eficiencia energética y autogeneración con fuentes renovables.
+                  p.mb-0 #[b Incentivos clave:] establece beneficios tributarios (ejemplo: deducción de renta, exención de IVA y arancel) para proyectos e inversiones en eficiencia energética y autogeneración con fuentes renovables.
                 li.d-flex.mb-0
                   i.fas.fa-star
-                  p.mb-0 Implicación: permite al gestor justificar la viabilidad económica de los proyectos de sostenibilidad al incorporar los ahorros fiscales como parte del análisis de VAN/TIR.
+                  p.mb-0 #[b Implicación:] permite al gestor justificar la viabilidad económica de los proyectos de sostenibilidad al incorporar los ahorros fiscales como parte del análisis de VAN/TIR.
 
       
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")

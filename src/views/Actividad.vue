@@ -149,7 +149,7 @@ export default {
         {
           id: 6,
           texto:
-            'El principal reto de la matriz energética Colombiana es la sobreabundancia de fuentes térmicas (carbón y gas), lo que hace que el sistema sea inmune a la variabilidad climática.',
+            'El principal reto de la matriz energética colombiana es la sobreabundancia de fuentes térmicas (carbón y gas), lo que hace que el sistema sea inmune a la variabilidad climática.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: false,
           opciones: [

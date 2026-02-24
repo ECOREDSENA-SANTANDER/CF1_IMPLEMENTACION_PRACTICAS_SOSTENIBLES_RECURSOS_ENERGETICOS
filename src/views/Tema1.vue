@@ -69,13 +69,13 @@
         AcordionA.press(tipo="b" clase-tarjeta="tarjeta tarjeta--grey")
           .row.align-items-center(titulo="Huella ecológica")
             .col-lg-12
-              p.mb-0 La huella ecológica es un indicador que mide el área de tierra y agua biológicamente productiva necesaria para producir los recursos que una población consume y para asimilar los residuos que genera. Aplicada al sector energético, ayuda a visualizar la cantidad de superficie que se requiere para absorber las emisiones de dióxido de carbono (CO2) resultantes del consumo de combustibles fósiles, siendo una herramienta clave para la concientización sobre nuestro impacto.
+              p.mb-0 La huella ecológica es un indicador que mide el área de tierra y agua biológicamente productiva necesaria para producir los recursos que una población consume y para asimilar los residuos que genera. Aplicada al sector energético, ayuda a visualizar la cantidad de superficie que se requiere para absorber las emisiones de dióxido de carbono (CO#[sub 2]) resultantes del consumo de combustibles fósiles, siendo una herramienta clave para la concientización sobre nuestro impacto.
           .row.align-items-center(titulo="Economía circular")
             .col-lg-12
               p.mb-0 Este modelo busca desvincular el crecimiento económico del consumo de recursos finitos, promoviendo un sistema donde los productos, componentes y materiales se mantienen en su máximo valor y utilidad durante el mayor tiempo posible.
           .row.align-items-center(titulo="Principios clave")
             .col-lg-12
-              p.mb-0 Rediseñar (productos duraderos), Reducir (uso de materiales vírgenes), Reutilizar (extender la vida útil) y Reciclar (reintegrar materiales al ciclo productivo).
+              p.mb-0 Rediseñar (productos duraderos), reducir (uso de materiales vírgenes), reutilizar (extender la vida útil) y reciclar (reintegrar materiales al ciclo productivo).
           .row.align-items-center(titulo="Contraste con el modelo lineal")
             .col-lg-12
               p.mb-0 El modelo tradicional es “tomar – hacer - desechar”; la economía circular busca “cerrar el ciclo” y es fundamental para la gestión sostenible de los residuos energéticos (ejemplo palas de aerogeneradores, baterías).
@@ -269,7 +269,7 @@
             .row.justify-content-center.align-items-end.p-0.p-lg-4
               .col-lg-6.mb-lg-0.mb-4
                 p.mb-4 #[b c)	El Costo Unitario y la estructura tarifaria (CU):] 
-                p.mb-4 El costo total que paga el usuario por cada kWh consumido se conoce como Costo Unitario de prestación del servicio (CU). Este costo no es uniforme y se compone de varios elementos definidos por la regulación de la Comisión de Regulación de Energía y Gas (CREG). Entender estos componentes es esencial para determinar la viabilidad económica de cualquier proyecto de eficiencia
+                p.mb-4 El costo total que paga el usuario por cada kWh consumido se conoce como Costo Unitario de prestación del servicio (CU). Este costo no es uniforme y se compone de varios elementos definidos por la regulación de la Comisión de Regulación de Energía y Gas (CREG). Entender estos componentes es esencial para determinar la viabilidad económica de cualquier proyecto de eficiencia.
                 .titulo-sexto
                   h5 Figura 3. 
                   | Ecuación del costo unitario de energía
@@ -318,7 +318,7 @@
 
     
     p.mb-4(data-aos="fade-left") El análisis económico del CU es crucial porque las estrategias de eficiencia energética se dirigen principalmente a reducir el consumo activo (kWh), impactando directamente el cargo de Generación (Ci) y, marginalmente, los costos asociados a Transmisión (Ti) y Pérdidas (Pi).
-    p.mb-5 Al Identificar el alto impacto de la variable Ci en la factura, el aprendiz puede justificar que la inversión en eficiencia no solo reduce el impacto ambiental (menos generación requerida) sino que también garantiza la Viabilidad Económica al reducir la porción más grande y variable del costo total.
+    p.mb-5 Al identificar el alto impacto de la variable Ci en la factura, el aprendiz puede justificar que la inversión en eficiencia no solo reduce el impacto ambiental (menos generación requerida) sino que también garantiza la Viabilidad Económica al reducir la porción más grande y variable del costo total.
     
 
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-left")
@@ -361,7 +361,7 @@
         .titulo-sexto
           h5 Figura 4. 
           | Ejemplo factura ENEL parte frontal 1
-        img.mb-2(src='@/assets/curso/tema1/22.png' alt='Imagen de una factura de energía de Enel que muestra el número de cliente, la información del titular y un aviso destacado sobre la entrega del recibo.perdida.')
+        img.mb-2(src='@/assets/curso/tema1/22.png' alt='Imagen de una factura de energía de Enel que muestra el número de cliente, la información del titular y un aviso destacado sobre la entrega del recibo.')
         figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. <br>En la Figura 4 los números corresponden de la siguiente manera:
       .col-lg-6
         .bg13.p-lg-5.p-4
@@ -620,11 +620,11 @@
               h4 Saberes de proceso aplicado
               p.mb-4 Estructurar bases de datos de consumo histórico.
               h5.mb-4 a) Procedimiento:
-              p.mb-3 #[b Recolección sistemática:] Recopilar datos de consumo (kWh) y costos de al menos 12 a 24 meses.
+              p.mb-3 #[b Recolección sistemática:] recopilar datos de consumo (kWh) y costos de al menos 12 a 24 meses.
               .separadort1.mb-3 
               p.mb-3 #[b Normalización de datos:] ajustar los datos de consumo a factores externos que no se pueden controlar, como los Grados Día de Calentamiento y Enfriamiento (GDCE) para aislar el efecto de la temperatura en la climatización.
               .separadort1.mb-3  
-              p.mb-0 #[b Detección de anomalías:] Utilizar gráficos (como el de barras) para visualizar patrones y detectar picos inusuales o consumos constantes en periodos de baja actividad (ejemplo: fines de semana), lo cual indica oportunidades de mejora.
+              p.mb-0 #[b Detección de anomalías:] utilizar gráficos (como el de barras) para visualizar patrones y detectar picos inusuales o consumos constantes en periodos de baja actividad (ejemplo: fines de semana), lo cual indica oportunidades de mejora.
 
 
     separador
@@ -682,7 +682,7 @@
               img(src='@/assets/curso/tema1/35.svg', alt='')
             .col-lg-11
               p.mb-0 El enfoque de Análisis de Ciclo de Vida #[b (ACV)] es la metodología central que permite llevar la sostenibilidad a la práctica, superando la visión limitada de la factura eléctrica.
-          p.mb-0 ACV como herramienta de evaluación: el ACV obliga al gestor energético a mirar los impactos generados antes y después de la fase de uso. Si se elige una tecnología de alta eficiencia, pero su fabricación o disposición final genera una alta contaminación, la solución no es verdaderamente sostenible.
+          p.mb-0 #[b ACV como herramienta de evaluación:] el ACV obliga al gestor energético a mirar los impactos generados antes y después de la fase de uso. Si se elige una tecnología de alta eficiencia, pero su fabricación o disposición final genera una alta contaminación, la solución no es verdaderamente sostenible.
 
 
     p.mb-5(data-aos="fade-left") Etapas del vínculo:
@@ -708,7 +708,7 @@
                   img.img-t.img-a(src='@/assets/curso/tema1/38.svg' alt='AvatarTop')
               .bg10.p-1.mb-4
                 h4.text-center.text-white.mb-0.ps-2.pe-2 2. Uso
-              p.mb-0.text-center La fase de consumo donde se aplica la eficiencia, impactando directamente la factura y el CO2 de la generación.
+              p.mb-0.text-center La fase de consumo donde se aplica la eficiencia, impactando directamente la factura y el CO#[sub 2] de la generación.
           .col-lg-4.col-md-6.mb-lg-0.mb-4
             .h-100.bg18.p-4
               .row.justify-content-center.align-items-center.mb-0
