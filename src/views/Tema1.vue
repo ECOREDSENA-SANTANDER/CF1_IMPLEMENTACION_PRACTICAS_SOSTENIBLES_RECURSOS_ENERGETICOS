@@ -368,7 +368,7 @@
 
     p.mb-5.mb-lg-4(data-aos="fade-right") Los días facturados corresponden a la diferencia entre la fecha de lectura actual y la fecha de lectura anterior, lo que permite determinar el número de días de consumo incluidos en la factura. Es importante considerar que, debido a la presencia de días festivos, los periodos de facturación pueden variar entre 27 y 33 días, completando al final del año un total de 365 días. Esta variación puede incidir en el valor facturado de un periodo a otro; por ello, resulta fundamental revisar los días facturados al analizar el consumo energético.
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-lg-4.mb-5(data-aos="fade-left")
       .col-lg-12.offset-lg-0.mb-lg-5
         .row.justify-content-center.align-items-center
           .col-lg-9.pad.com
@@ -407,7 +407,7 @@
               p.mb-0 #[b Número 10 contáctanos:] aquí tienes todos los canales habilitados para que te comuniques con nosotros.
     
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
-      .col-lg-6.mb-lg-0.mb-5
+      .col-lg-6.order-lg-1.order-md-2.order-2
         .bg13.p-4
           p.mb-2.mx-lg-5.mt-lg-0 En la Figura 7  los números corresponden de la siguiente manera:
           ul.lista-ul.mb-0.mx-lg-4
@@ -417,7 +417,7 @@
             li.d-flex.mb-0
               i.fas.fa-pencil
               p.mb-0 #[b Número 11 medios de pago:] encontrarás todos los canales que tenemos habilitados para el pago de tu factura; puntos físicos y virtuales.
-      .col-lg-6
+      .col-lg-6.mb-lg-0.mb-5.order-lg-2.order-md-1.order-1
         .titulo-sexto
           h5 Figura 7. 
           | Ejemplo factura ENEL parte frontal 4
@@ -441,14 +441,14 @@
           p.mb-0 • En color azul, encuentras lo relacionado con el cobro por el servicio de aseo.
             
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
-      .col-lg-7.mb-lg-0.mb-5
+      .col-lg-7.mb-0
         .bg13.p-4
           ul.lista-ul.mb-4.mx-lg-4.mt-lg-4
             li.d-flex.mb-1
               i.fas.fa-pencil
               p.mb-0 #[b Número 2 histórico de consumo:] puedes ver el comportamiento de tu consumo de energía para el mes actual y en los últimos seis periodos facturados.  
-          p.mb-0.mx-lg-5 #[b • Energía activa:] es la energía consumida para la iluminación y el funcionamiento de todo tipo de aparatos eléctricos en el hogar.
-          p.mb-4.mx-lg-5 #[b • Energía reactiva:] es la energía que algunos equipos eléctricos absorben de la red, pero que se debe controlar ya que si supera el 50% de la energía activa será cobrada.
+          p.mb-0.mx-lg-5.mx-4 #[b • Energía activa:] es la energía consumida para la iluminación y el funcionamiento de todo tipo de aparatos eléctricos en el hogar.
+          p.mb-4.mx-lg-5.mx-4 #[b • Energía reactiva:] es la energía que algunos equipos eléctricos absorben de la red, pero que se debe controlar ya que si supera el 50% de la energía activa será cobrada.
           ul.lista-ul.mb-0.mb-lg-4.mx-lg-4
             li.d-flex.mb-4
               i.fas.fa-pencil
@@ -458,29 +458,29 @@
               p.mb-0 #[b Número 4 consumo mes kWh:] es el total de la energía consumida entre las fechas del periodo actual de facturación.
       .col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/tema1/42.png' alt='')
-
-    .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-4.h-100.mb-0
+    
+    .row.justify-content-center.mb-lg-5.mb-4
+      .col-lg-3.col-md-6.mb-lg-0.mb-4
+        .bgt1.p-4.h-100
           p.text-center.mx-3 
             b Número 5 promedio
           p.mb-0.text-center Es la referencia con la que puedes comparar si tu consumo actual es mayor, menor o similar a lo que has venido consumiendo. Esta referencia corresponde al promedio del consumo de los últimos 6 periodos.
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-4.h-100.mb-0
+      .col-lg-3.col-md-6.mb-lg-0.mb-4
+        .bgt2.p-4.h-100
           p.text-center.mx-3  
             b Número 6 KWH aplicado
           p.mb-0.text-center Es el precio cobrado por cada kilovatio hora de tu consumo, cuyo valor depende del resultado mensual de la fórmula tarifaria vigente definida por la Comisión de Regulación de Energía y Gas (CREG), por lo cual varia de un periodo a otro.
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-4.h-100.mb-0
+      .col-lg-3.col-md-6.mb-lg-0.mb-4
+        .bgt3.p-4.h-100
           p.text-center.mx-3  
             b Número 7 cosumo diario kWh y valor diario
           p.mb-0.text-center Corresponde a tu consumo diario en kilovatios hora y cuánto te cuesta por día para que hagas un consumo eficiente y sigas ahorrando energía.
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-botones.hh.p-4.h-100.mb-0
+      .col-lg-3.col-md-6.mb-lg-0.mb-4
+        .bgt4.p-4.h-100
           p.text-center.mx-3  
             b Número 8 componentes tarifarios
           p.mb-0.text-center Es el costo de cada uno de los componentes del valor de la energía: Generación, transmisión, distribución, comercialización, perdidas y restricciones.
-    
+
     .row
       .col-lg-12
         .titulo-sexto
@@ -493,13 +493,13 @@
         figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
       .col-lg-6
         .bg13.p-4
-          p.mb-1.mx-lg-5.mt-lg-0 En la Figura 9 los números corresponden de la siguiente manera:
+          p.mb-lg-1.mb-4.mx-lg-5.mt-lg-0 En la Figura 9 los números corresponden de la siguiente manera:
           ul.lista-ul.mb-0.mx-lg-4
             li.d-flex.mb-0
               i.fas.fa-pencil
               p.mb-0 #[b Número 9 cajetillas de cobro:] para cada uno de los cobros aplicados en tu factura, encontrarás una cajetilla del mismo color con el detalle de los cobros cargados:
-          p.mb-0.mx-lg-5 • Consumo y otros cobros asociados a energía (color verde).
-          p.mb-0.mx-lg-5 • Otros cobros de productos y servicios (color rosado).
+          p.mb-0.mx-lg-5.mx-4 • Consumo y otros cobros asociados a energía (color verde).
+          p.mb-0.mx-lg-5.mx-4 • Otros cobros de productos y servicios (color rosado).
           ul.lista-ul.mb-0.mx-lg-4
             li.d-flex.mb-0
               i.fas.fa-pencil
@@ -533,7 +533,7 @@
       .col-lg-12
         .bg1.p-lg-5.p-4
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-6
+            .col-lg-6.mb-lg-0.mb-4
               p.mb-4.mx-lg-4.mt-lg-4 En la Figura 11 los números corresponden de la siguiente manera:
               ul.lista-ul.mb-0.mx-lg-0.mb-lg-4
                 li.d-flex.mb-0
@@ -616,15 +616,15 @@
       h2 1.3 Sostenibilidad: definición y características
     
     .bloque-texto-a.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-5(data-aos="fade-right") 
-        .row.m-0.align-items-center.justify-content-center
-          .col-lg-9.mb-0.mb-lg-0
-            .bloque-texto-a__texto.p-lg-5.p-md-4.p-4.mb-lg-0.mb-4.my-3.my-lg-0
-              p.mb-4.pe-lg-5 La definición de sostenibilidad requiere una visión integral que incorpore el Ciclo de Vida (ACV), es decir, el análisis de los impactos desde la extracción de materias primas (donde se generan impactos ambientales iniciales) hasta la disposición final (donde se aplica la economía circular). Esta perspectiva es clave para que las soluciones de eficiencia energética no generen nuevos problemas en otras etapas del ciclo.
-              p.mb-0.pe-lg-5 La gestión energética sostenible no es simplemente ahorrar costos (pilar económico), sino asegurar que ese ahorro no comprometa el medio ambiente ni la equidad social.
-          .col-lg-3.col-md-6.col-9.mb-0
-            img.enci.d-none.d-lg-block(src='@/assets/curso/tema1/34.svg', alt='')
+      .row.m-0.align-items-center.justify-content-center
+        .col-lg-9.mb-0.mb-lg-0
+          .bloque-texto-a__texto.p-lg-5.p-md-4.p-4.mb-lg-0.mb-4.my-3.my-lg-0
+            p.mb-4.pe-lg-5 La definición de sostenibilidad requiere una visión integral que incorpore el Ciclo de Vida (ACV), es decir, el análisis de los impactos desde la extracción de materias primas (donde se generan impactos ambientales iniciales) hasta la disposición final (donde se aplica la economía circular). Esta perspectiva es clave para que las soluciones de eficiencia energética no generen nuevos problemas en otras etapas del ciclo.
+            p.mb-0.pe-lg-5 La gestión energética sostenible no es simplemente ahorrar costos (pilar económico), sino asegurar que ese ahorro no comprometa el medio ambiente ni la equidad social.
+        .col-lg-3.col-md-6.col-9.mb-0
+          img.enci.d-none.d-lg-block(src='@/assets/curso/tema1/34.svg', alt='')
 
-    .cont_5_1.mt-4(data-aos="fade-left").mb-5
+    .cont_5_1.mt-4(data-aos="fade-left").mb-lg-5.mb-4
       .row.justify-content-center
         .col-lg-5.mb-4.mb-lg-0(data-aos="zoom-in")
           .crd_hover_txt
