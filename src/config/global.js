@@ -108,11 +108,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -134,29 +129,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'Fundamentos de sostenibilidad y análisis de consumo.',
-      referencia:
-        'Ahorro en la factura eléctrica, FP eficiencia energética y energía solar térmica. (2019). Ahorro en la factura eléctrica.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=dKWz5vFx_s8',
-    },
-    {
-      tema: 'Ciclo de vida, impactos y principios de gestión sostenible.',
-      referencia:
-        'CFAS Arquitectura Sustentable. (2020). Materiales de bajo impacto, Episodio 3-6: Análisis de ciclo de vida.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=YcRR1_ZMpJw',
-    },
-    {
-      tema: 'Contexto energético nacional y regulación.',
-      referencia:
-        'Stockholm Environment Institute. (2023). ¿Qué es una “transición energética justa”? Definiciones desde La Paz, Cesar (Colombia).',
-      tipo: 'Video',
-      link: 'http://www.youtube.com/watch?v=zXiNIq1D--I',
-    },
-  ],
   glosario: [
     {
       termino: 'ACV (Análisis de Ciclo de Vida)',
@@ -233,81 +205,70 @@ export default {
     {
       referencia:
         'Comisión de Regulación de Energía y Gas. (2020). Estructura tarifaria del servicio de energía eléctrica (Resolución CREG 015 de 2018 y sus modificaciones).',
-      link:
-        'https://gestornormativo.creg.gov.co/gestor/entorno/docs/resolucion_creg_0015_2018.htm',
+      link: '',
     },
     {
       referencia:
         'Congreso de la República de Colombia. (2021). Ley 2099 de 2021: Por medio de la cual se dictan disposiciones para la transición energética, la dinamización del mercado energético, la reactivación económica del país y se dictan otras disposiciones (Diario Oficial No. 51.738).',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=166326',
+      link: '',
     },
     {
       referencia:
         'Departamento Nacional de Planeación. (2022). Plan Nacional de Desarrollo 2022–2026: Colombia potencia mundial de la vida (Capítulo sobre transición energética).',
-      link: 'https://www.dnp.gov.co/plan-nacional-desarrollo/pnd-2022-2026',
+      link: '',
     },
     {
       referencia:
         'Ellen MacArthur Foundation. (2017). Towards a circular economy: A business case for energy efficiency.',
-      link:
-        'https://content.ellenmacarthurfoundation.org/m/4384c08da576329c/original/Towards-a-circular-economy-Business-rationale-for-an-accelerated-transition.pdf',
+      link: '',
     },
     {
       referencia:
         'Enel Colombia. (2025). Entendimiento de la factura de energía.',
-      link:
-        'https://www.enel.com.co/es/personas/entendimiento-de-factura-energia.html',
+      link: '',
     },
     {
       referencia:
         'Equitel. (2025). ¿Sabes cuál es la diferencia entre kW y kVA? Cumandes.',
-      link:
-        'https://cumandes.equitel.com.co/blog/energia/sabes-cual-es-la-diferencia-entre-kw-y-kva/',
+      link: '',
     },
     {
       referencia:
         'Example Life Cycle Assessment Stages Diagram. (2020). [Diagrama]. Wikimedia Commons.',
-      link:
-        'https://commons.wikimedia.org/wiki/File:Example_Life_Cycle_Assessment_Stages_diagram.png',
+      link: '',
     },
     {
       referencia:
         'Línea Verde Huelva. (2018). Qué es el desarrollo sostenible.',
-      link:
-        'https://www.lineaverdehuelva.com/lv/consejos-ambientales/conciencia-ambientual/Que-es-el-desarrollo-sostenible.asp',
+      link: '',
     },
     {
       referencia: 'Low Carbon Power. (2025). Colombia.',
-      link: 'https://lowcarbonpower.org/es/region/Colombia',
+      link: '',
     },
     {
       referencia:
         'Naciones Unidas. (1987). Informe de la Comisión Mundial sobre Medio Ambiente y Desarrollo: Nuestro futuro común (Informe Brundtland). Asamblea General de las Naciones Unidas.',
-      link:
-        'https://www.ecominga.uqam.ca/PDF/BIBLIOGRAPHIE/GUIDE_LECTURE_1/CMMAD-Informe-Comision-Brundtland-sobre-Medio-Ambiente-Desarrollo.pdf',
+      link: '',
     },
     {
       referencia:
         'Oikonomou, V. A., Gielen, D. J., & Rübbelke, D. (2020). Energy efficiency and the three pillars of sustainable development: A concise review. Energy Policy, 137(1), 111100.',
-      link: 'https://doi.org/10.1016/j.enpol.2019.111100',
+      link: '',
     },
     {
       referencia:
         'Rincón, J. M., & Rincón, A. E. (2021). Análisis de ciclo de vida (ACV) como herramienta para la evaluación de sostenibilidad de proyectos energéticos. Revista de la Escuela Colombiana de Ingeniería, 120(2), 54–67.',
-      link:
-        'https://www.raco.cat/index.php/afinidad/article/download/276501/364433',
+      link: '',
     },
     {
       referencia: 'Sucerman. (s.f.). Ciencias, unidad 4, lección 1.',
-      link:
-        'https://contenidos.sucerman.com/nivel2/ciencias/unidad4/leccion1.html',
+      link: '',
     },
     {
       referencia:
         'XM. (2024). En el primer semestre del 2024, con el ingreso de 40 proyectos nuevos, se fortalece la seguridad del Sistema Interconectado Nacional.',
-      link:
-        'https://www.xm.com.co/noticias/7028-en-el-primer-semestre-del-2024-con-el-ingreso-de-40-proyectos-nuevos-se-fortalece-la',
+      link: '',
     },
   ],
   creditos: [
@@ -317,7 +278,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',

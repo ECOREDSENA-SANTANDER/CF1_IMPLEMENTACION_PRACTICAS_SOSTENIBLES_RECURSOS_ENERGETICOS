@@ -7,7 +7,6 @@
         span 2
       h1 Ciclo de vida, impactos y principios de gestión sostenible
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bloque-texto-g.color-primario.p-4.p-lg-5.p-md-4.mb-0
@@ -20,9 +19,7 @@
             br
             p.mb-0 El Análisis de Ciclo de Vida (ACV) constituye la metodología central para evaluar los impactos ambientales, sociales y económicos asociados a todas las etapas de existencia de un producto o servicio energético. Adoptar este enfoque implica trascender la evaluación de las emisiones o efectos inmediatos en el punto de uso, con el propósito de reconocer la “huella real” que se produce desde la extracción de materias primas hasta la disposición final.
 
-    
     p.mb-5(data-aos="fade-left") Las fases del ciclo para la energía (y los equipos que la consumen) son:
-
 
     .row.fondo2.p-4.p-lg-5.p-md-4.mb-5(data-aos="fade-down")
       .col-lg-12
@@ -65,7 +62,6 @@
               .col-lg-5.col-md-8.col-10
                 img(src='@/assets/curso/tema2/6.png')
 
-
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto
@@ -81,10 +77,8 @@
     #t_2_1.titulo-segundo.mb-5
       h2 2.1 Impactos asociados al uso energético
 
-    
     p.mb-5(data-aos="fade-right") La evaluación de impactos exige clasificar las consecuencias del proceso energético en cuatro grandes categorías. Esta clasificación ayuda a tener una visión equilibrada de la sostenibilidad:
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto
@@ -119,12 +113,10 @@
                 td Reasentamiento de comunidades (ejemplo: proyectos hidroeléctricos), riesgos de seguridad en el trabajo, contaminación atmosférica que afecta la salud pública.
         figcaption Referencia Tabla - Norma APA
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         img(src='@/assets/curso/tema2/8.svg' alt='')
 
-    
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-6.mb-lg-0.mb-5
         .bg19.p-4
@@ -139,7 +131,7 @@
               p.mb-0 Cuántos kWh se consumen (de la factura).
             li.d-flex.mb-0
               i.fas.fa-star.t2
-              p.mb-0 Cuál es el factor de emisión de la fuente de energía (ej. kg \ CO#[sub 2] por kWh generado).
+              p.mb-0 Cuál es el factor de emisión de la fuente de energía (ej. kg / CO#[sub 2] por kWh generado).
             li.d-flex.mb-0
               i.fas.fa-star.t2
               p.mb-0 Cuál es la huella de carbono del proceso.
@@ -149,9 +141,7 @@
     #t_2_2.titulo-segundo.mb-5
       h2 2.2 Principios de sostenibilidad energética
 
-    
     p.mb-5(data-aos="fade-right") La gestión energética sostenible no solo evalúa el impacto, sino que se rige por un conjunto de principios rectores que deben ser integrados en la planificación de soluciones. Estos principios aseguran que las acciones tomadas sean técnica, económica y ambientalmente responsables.
-
 
     .row.justify-content-center.align-items-start.mb-0
       .col-lg-8
@@ -209,7 +199,6 @@
                   p.mb-0 #[b Vínculo con ACV:] es el principio clave para gestionar y reducir el impacto ambiental en la fase de fin de ciclo, cerrando el bucle de la sostenibilidad.
       .col-lg-4.d-none.d-lg-block
         img.mb-0(alt="" src="@/assets/curso/tema2/10.png")
-
 
 
 </template>

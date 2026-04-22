@@ -8,7 +8,6 @@
           i.fas.fa-info
       h1 Introducción
     
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 Bienvenido al componente formativo “Usos y consumo energético según contexto”. El cual ha sido elaborado para proporcionar al aprendiz la información necesaria para navegar y aprovechar de manera adecuada este programa de formación. En él se presentan los objetivos de aprendizaje, la estructura de los contenidos, las actividades previstas, los criterios de evaluación y los recursos de apoyo disponibles.
@@ -21,15 +20,14 @@
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/intro/1.png' alt='AvatarTop')
 
-
     p.mb-5(data-aos="fade-left") Finalmente, el documento contextualiza la temática en el marco energético nacional, abordando la composición de la matriz energética colombiana y la normativa vigente. Este enfoque permite fundamentar cada decisión de gestión en criterios legales y técnicos, fortaleciendo la capacidad del aprendiz para desarrollar procesos de uso eficiente, responsable y sostenible de la energía.
     
-
     .row.justify-content-center.align-items-center(data-aos="fade-right")         
       .col-lg-12
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. 
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/O4amFqjkOEg?si=8O1hU-Uu5Hbmw61W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Usos y consumo energético según contexto
+
 
 </template>
 

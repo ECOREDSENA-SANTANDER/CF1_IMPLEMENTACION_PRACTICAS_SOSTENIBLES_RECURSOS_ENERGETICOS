@@ -7,7 +7,6 @@
         span 3
       h1 Contexto energético nacional y regulación
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.color-acento-botones.p-4.p-lg-5.mb-0
@@ -17,9 +16,7 @@
           .bloque-texto-g__texto.p-lg-5.p-4
             p.mb-0 El contexto geográfico de Colombia, la disponibilidad de recursos naturales y las políticas energéticas históricas han configurado una matriz energética particular, caracterizada por una alta dependencia de fuentes hidráulicas. Esta composición representa desafíos importantes para la resiliencia del sistema, especialmente frente a fenómenos climáticos, pero también ofrece oportunidades para fortalecer la diversificación y la incorporación de energías renovables.
 
-    
     p.mb-5(data-aos="fade-left") La matriz energética se entiende como la combinación de fuentes primarias utilizadas para generar electricidad en el país. Entre sus componentes se destacan:
-
 
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-4
@@ -38,17 +35,14 @@
           h3.mb-4.text-center.text-white Transición hacia ERNC
           p.mb-0.text-white En la última década se ha promovido de manera sostenida la incorporación de energías renovables no convencionales, principalmente solar fotovoltaica y eólica, con el fin de diversificar la matriz y reducir las emisiones asociadas al sector eléctrico.
 
-    
     p.mb-5(data-aos="fade-left") Durante el periodo comprendido entre agosto de 2024 y julio de 2025, más de las tres cuartas partes del consumo eléctrico del país provinieron de fuentes bajas en carbono, lo que representa alrededor del 74 % del total. La energía hidroeléctrica continúa siendo la principal fuente, aportando aproximadamente el 65 %. Las fuentes fósiles, por su parte, generaron algo más de una cuarta parte de la electricidad, con contribuciones cercanas al 14 % por parte del gas y al 8 % por parte del carbón. Aunque aún es minoritaria, la energía solar alcanzó un aporte cercano al 5 %. El consumo de petróleo y biocombustibles aparece en proporciones marginales.
 
-    
     .bg20.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-3.mb-lg-0.mb-4
           img.img-t.img-a(src='@/assets/curso/tema3/5.svg')
         .col-lg-9
           p.mb-0 En cuanto al consumo eléctrico per cápita, en 2025 se registró una disminución frente al récord histórico del año anterior. El valor alcanzó 1662 kWh por persona, lo que equivale a una reducción de 43 kWh respecto a 2024. La generación per cápita de electricidad proveniente de fuentes bajas en carbono también mostró una caída: en 2025 se produjo un total de 1226 kWh por persona, es decir, 81 kWh menos que el máximo alcanzado en 2017. Estas reducciones resultan preocupantes en un contexto global que exige aumentos sostenidos en la generación limpia para apoyar un futuro energético más electrificado y sostenible.
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -60,7 +54,6 @@
             .col-lg-8
               img.mb-0(src='@/assets/curso/tema3/6.svg' alt='Gráfico circular que muestra la composición de la matriz eléctrica de Colombia, donde el 64 % corresponde a fuentes bajas en carbono, principalmente hidroeléctrica con un 58.1 %, seguida de gas, carbón, solar, biocombustibles y petróleo. Enlace: https://lowcarbonpower.org/es/region/Colombia')
         figcaption Fuente: Low Carbon Power (2025). 
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
@@ -82,9 +75,7 @@
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema3/7.png')
 
-    
     p.mb-5(data-aos="fade-right") Con la entrada en operación de los proyectos de generación, contamos con una capacidad efectiva neta instalada de 20.767 MW en nuestra matriz de generación a corte de junio de 2024 y están en pruebas 514 MW de energía solar, 32 MW de energía eólica y 12.5 MW de energía hidráulica”, afirma Juan Carlos Morales Ruíz, gerente Centro Nacional de Despacho.
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -97,10 +88,9 @@
               img.mb-0(src='@/assets/curso/tema3/8.svg' alt='Mapa de Colombia que muestra, por departamentos, la ubicación y capacidad en megavatios de diferentes proyectos de generación energética instalados en 2024. Enlace: https://andesco.org.co/en-el-primer-semestre-del-2024-con-el-ingreso-de-40-proyectos-nuevos-se-fortalece-la-seguridad-del-sistema-interconectado-nacional/')
         figcaption Fuente: Andesco (2024).
 
-
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-6
-        p.mb-lg-3.mb-4 De los 32 proyectos de generación, 29 son de tecnología solar y 3 térmicas. Asimismo, 12 son de generación distribuida, es decir, plantas que generan energía eléctrica con capacidad instalada menor a 1 MW y que se encuentra instalada cerca de los centros de consumo; y 5 son autogeneradores a gran escala que entregan energía al SIN, los cuales están reglamentados por la resolución CREG 174 de 2021.
+        p.mb-lg-3.mb-4 De los 32 proyectos de generación, 29 son de tecnología solar y 3 térmicas. Asimismo, 12 son de generación distribuida, es decir, plantas que generan energía eléctrica con capacidad instalada menor a 1 MW y que se encuentran instaladas cerca de los centros de consumo; y 5 son autogeneradores a gran escala que entregan energía al SIN, los cuales están reglamentados por la resolución CREG 174 de 2021.
         p.mb-lg-3.mb-4 Durante el primer semestre, entraron en operación las primeras plantas solares despachadas centralmente: Portón del Sol de 102 MW y El Paso de 68 MW. A estas se sumaron 5 plantas: Tepuy de 83 MW, La Unión de 100 MW, Fundación de 90 MW, La Loma de 150 MW y La Mata de 80 MW. 
         .bg25.p-4.mb-lg-0.mb-5
           p.mb-0 Estas plantas aportan 673 MW a la capacidad efectiva neta del SIN. Además, la capacidad del sistema se vio reforzada con la entrada en operación de la planta térmica termocaribe 3 de 52 MW. Con lo anterior, a 30 de junio de 2024 la matriz de generación del SIN tiene los siguientes porcentajes de participación por tecnología: 
@@ -116,14 +106,11 @@
     #t_3_1.titulo-segundo.mb-5
       h2 3.1 Regulación y sostenibilidad
 
-
     p.mb-5(data-aos="fade-left") El marco normativo en Colombia no solo permite la transición energética, sino que la impulsa mediante incentivos y obligaciones, lo cual es fundamental para la planificación de la gestión ambiental.
-
 
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Leyes Fundamentales para la gestión sostenible
-
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10
@@ -157,12 +144,10 @@
                 li.d-flex.mb-0
                   i.fas.fa-star
                   p.mb-0 #[b Implicación:] permite al gestor justificar la viabilidad económica de los proyectos de sostenibilidad al incorporar los ahorros fiscales como parte del análisis de VAN/TIR.
-
       
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         img(src='@/assets/curso/tema3/10.png')
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -189,7 +174,6 @@
                 td.text-center #[b  Circularidad]
                 td Normativa ambiental sobre gestión de residuos peligrosos (aplicable a baterías y residuos electrónicos).
                 td Minimización del impacto en la fase de Fin de Ciclo de equipos de ERNC.
-
 
     p.mb-0(data-aos="fade-right") El conocimiento de estas leyes permite al aprendiz consultar la normativa vigente y relacionar los principios de sostenibilidad con los requerimientos legales, asegurando que las futuras estrategias de eficiencia y mitigación no solo sean viables, sino también legales y fiscalmente atractivas.
 

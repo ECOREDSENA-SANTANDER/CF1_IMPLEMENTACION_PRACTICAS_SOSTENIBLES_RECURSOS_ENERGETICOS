@@ -7,7 +7,6 @@
         span 1
       h1 Fundamentos de sostenibilidad y análisis de consumo
       
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-4.p-lg-5.mb-0
@@ -20,10 +19,8 @@
             br
             p.mb-0 Este enfoque se sustenta en la interdependencia de tres dimensiones o pilares: el pilar ambiental, que promueve la conservación de los recursos naturales y el manejo adecuado de los ecosistemas; el pilar social, que se orienta a garantizar la equidad, el bienestar y la seguridad de las personas; y el pilar económico, que busca la viabilidad financiera y la generación responsable de riqueza. Cada uno de estos pilares constituye un elemento esencial para alcanzar un equilibrio que permita avanzar hacia modelos de producción y desarrollo verdaderamente sostenibles.
 
-
     p.mb-5(data-aos="fade-left") A continuación, se describen ejemplos asociados a cada pilar:
 
-    
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .h-100.bg2.p-3
@@ -50,7 +47,6 @@
             h4.text-center.mb-0.ps-lg-4.pe-lg-4.ps-3.pe-3 Pilar económico (prosperidad)
           p.mb-2.text-center Viabilidad económica y generación de riqueza de manera responsable (ejemplo rentabilidad a largo plazo, eficiencia de costos).
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-lg-0.mb-5
         .bg4.p-4.mb-2
@@ -62,7 +58,6 @@
       .col-lg-6
         .bg5.p-lg-5.p-4
           p.mb-0.mx-lg-5.mx-0.tex La verdadera sostenibilidad se alcanza en la intersección de los tres pilares fundamentales económico, social y ambiental, donde el crecimiento económico se desarrolla de manera justa, equitativa y responsable, sin comprometer la integridad de los recursos naturales ni afectar el bienestar de las generaciones presentes y futuras. Solo mediante un equilibrio consciente entre estos componentes es posible garantizar un modelo de desarrollo que perdure en el tiempo y que responda a las necesidades de la sociedad sin degradar el entorno que la sustenta.
-
 
     .row.justify-content-center.align-items-start.mb-0(data-aos="fade-right")
       .col-lg-8
@@ -87,7 +82,6 @@
     #t_1_1.titulo-segundo.mb-5
       h2 1.1 Consumo energético: concepto y análisis económico
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.col-md-8.col-10.mb-lg-0.mb-4
         img(src='@/assets/curso/tema1/7.png', alt='')     
@@ -105,7 +99,6 @@
                 i.fas.fa-angle-right
                 p.mb-0 #[b Consumo reactivo (kVArh):] es la energía que los equipos inductivos (motores, transformadores) necesitan para generar campos magnéticos. Un exceso de consumo reactivo implica una penalización económica en la factura y una ineficiencia técnica.
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8.pe-lg-0
         .bg6.p-lg-5.p-4
@@ -116,9 +109,7 @@
         .bg7.p-4
           img.img-t.img-a(src='@/assets/curso/tema1/9.svg', alt='')   
 
-
     p.mb-5(data-aos="fade-left") #[b Ejemplo:] un genio pensó una vez en explicar la relación entre kW y kVA usando algo que todos entenderíamos, una cerveza: imagina que estás sentado en su bar local, con un vaso de cerveza en la mano. El contenido total de tu vaso (líquido + espuma) es el kVA. Sin embargo, solo la parte líquida de tu cerveza te calma la sed, es decir, los kW. Cuanto mejor sea el barman (cuanto más eficiente sea el sistema eléctrico), más cerveza (kW) tendrás.  
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -128,17 +119,14 @@
         img.mb-2(src='@/assets/curso/tema1/10.png' alt='Imagen comparativa que utiliza un vaso de cerveza para ilustrar la relación entre potencia activa, potencia reactiva y potencia aparente, diferenciando energía útil y energía perdida.')
         figcaption Fuente: Equitel. (2025). 
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .bg9.p-4.p-lg-5
           p.mb-0 En otras palabras, la potencia aparente es la cantidad total de energía que un equipo eléctrico consume, incluyendo la energía que se pierde debido a la resistencia en los cables y otros componentes del sistema eléctrico. La potencia real es la cantidad de energía que se convierte en trabajo útil, como mover una máquina o producir luz.
 
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Te proporcionamos algunos datos curiosos sobre la diferencia entre kW y kVA
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.d-none.d-lg-block
@@ -164,7 +152,6 @@
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 ¿Por qué es importante tener estos conceptos claros al comprar una planta eléctrica?
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
@@ -196,7 +183,6 @@
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema1/12.png' alt='AvatarTop')
 
-
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.ps-lg-3.pe-lg-0.ps-0.pe-0
         .subtitulo
@@ -205,7 +191,6 @@
           h4.mb-0 Análisis económico (la factura de energía eléctrica)
 
     p.mb-4(data-aos="fade-right") La factura es el primer y más importante instrumento de análisis económico del consumo energético. En Colombia, su interpretación permite identificar y clasificar los costos:
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.col-md-8.col-10.mb-lg-0.mb-4
@@ -223,14 +208,11 @@
             p.mb-0 #[b Penalizaciones:] costos adicionales por alto consumo reactivo o por exceder la demanda máxima contratada.
         p.mb-0 El análisis de la factura permite identificar los componentes de cobro de mayor peso y establecer la primera línea base para buscar la viabilidad económica de los proyectos de eficiencia.
 
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Cómo leer la factura de energía eléctrica en Colombia 
     
-
     p.mb-5(data-aos="fade-left") La factura colombiana, aunque su presentación varía según el operador (Enel, Celsia, EPM, etc.), mantiene una estructura de información y cargos regulada por la Comisión de Regulación de Energía y Gas (CREG). La clave está en diferenciar la información de identificación, la información técnica de consumo y el detalle de los cobros.
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12 
@@ -277,9 +259,7 @@
               .col-lg-5.col-md-8.col-10
                 img.mb-0(alt="" src="@/assets/curso/tema1/17.png")
 
-    
     p.mb-5(data-aos="fade-left") Se define así:
-
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
@@ -305,9 +285,7 @@
       .col-lg-5.d-none.d-lg-block
         img.mb-0(alt="" src="@/assets/curso/tema1/19.png")
 
-    
     p.mb-5(data-aos="fade-left") La eficiencia energética se enfoca en reducir el consumo de kWh para impactar directamente el costo de Generación (G) y los costos variables.
-
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.ps-lg-3.pe-lg-0.ps-0.pe-0
@@ -316,11 +294,9 @@
         .ssu.p-lg-2.p-3.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
           h4.mb-0 Implicaciones para la sostenibilidad
 
-    
     p.mb-4(data-aos="fade-left") El análisis económico del CU es crucial porque las estrategias de eficiencia energética se dirigen principalmente a reducir el consumo activo (kWh), impactando directamente el cargo de Generación (Ci) y, marginalmente, los costos asociados a Transmisión (Ti) y Pérdidas (Pi).
     p.mb-5 Al identificar el alto impacto de la variable Ci en la factura, el aprendiz puede justificar que la inversión en eficiencia no solo reduce el impacto ambiental (menos generación requerida) sino que también garantiza la Viabilidad Económica al reducir la porción más grande y variable del costo total.
     
-
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-left")
       .col-lg-8.mb-lg-0.mb-4
         .h-100.bg11.p-4.p-lg-5
@@ -352,215 +328,225 @@
             h4.text-center.text-white.mb-0.ps-3.pe-3 b. Códigos de desconexión y suspensión
           p.mb-0.text-center El documento siempre incluye información sobre la fecha límite de pago y, en caso de incumplimiento, la fecha estimada de suspensión del servicio. Es crucial para evitar interrupciones en la operación.
 
-
     p.mb-5(data-aos="fade-right") A continuación, se presenta a manera de ejemplo el contenido típico de una factura de energía eléctrica. Para este caso en particular, se utilizará la información dispuesta por la empresa que presta el servicio a los habitantes de Bogotá. Cabe destacar que dicha información es de carácter general para todo el país y que la organización de los datos puede variar según la empresa prestadora del servicio en cada región; sin embargo, los conceptos incluidos serán siempre similares o equivalentes, de acuerdo con las disposiciones normativas vigentes.
     
-
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-6
         .titulo-sexto
           h5 Figura 4. 
           | Ejemplo factura ENEL parte frontal 1
-        img.mb-2(src='@/assets/curso/tema1/22.png' alt='Imagen de una factura de energía de Enel que muestra el número de cliente, la información del titular y un aviso destacado sobre la entrega del recibo.')
-        figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. <br>En la Figura 4 los números corresponden de la siguiente manera:
+        img.mb-2(src='@/assets/curso/tema1/22.svg' alt='Imagen de una factura de energía de Enel que muestra el número de cliente, la información del titular y un aviso destacado sobre la entrega del recibo.')
+        figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía.
       .col-lg-6
-        .bg13.p-lg-5.p-4
-          ul.lista-ul.mb-0.mx-lg-5.mt-lg-3
-            li.d-flex.mb-lg-5.mb-3
+        .bg13.p-4
+          p.mb-4.mx-lg-5.mt-lg-1 En la Figura 4 los números corresponden de la siguiente manera:
+          ul.lista-ul.mb-0.mb-lg-1.mx-lg-4
+            li.d-flex.mb-lg-4.mb-3
               i.fas.fa-pencil
-              p.mb-0 Número 1 número de cliente: es el número que lo identifica como usuario del servicio, con él puede hacer trámites, consultas y solicitudes de la cuenta de energía.
-            li.d-flex.mb-lg-2.mb-0
+              p.mb-0 #[b Número 1 número de cliente:] es el número que te identifica como usuario del servicio, con él puedes hacer trámites, consultas y solicitudes de tu cuenta de energía.
+            li.d-flex.mb-0
               i.fas.fa-pencil
-              p.mb-0 Número 2 datos de cliente: corresponde al nombre del titular de la cuenta y dirección en la factura.
-
+              p.mb-0 #[b Número 2 datos de cliente:] corresponde a los datos relacionados con tu cuenta de energía como clase del servicio, es decir si tu cuenta es residencial, comercial, industrial y el número de medidor.
     
-    h3.mb-5(data-aos="fade-right") a) En la Figura 5 los números corresponden de la siguiente manera
-
-
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-6
         .titulo-sexto
           h5 Figura 5. 
           | Ejemplo factura ENEL parte frontal 2
-        img.mb-2(src='@/assets/curso/tema1/23.png' alt='Imagen de una factura de energía de Enel que muestra el número de cliente, la información del titular y un aviso destacado sobre la entrega del recibo.')
+        img.mb-2(src='@/assets/curso/tema1/23.svg' alt='Gráfica de consumo de energía que muestra el comportamiento mensual, los días facturados, el consumo total del mes y los valores aplicados en la factura.')
         figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
       .col-lg-6
         .bg13.p-4
-          ul.lista-ul.mb-0.mt-lg-2
-            li.d-flex.mb-2
+          p.mb-4.mx-lg-5.mt-lg-0 En la Figura 5 los números corresponden de la siguiente manera:
+          ul.lista-ul.mb-0.mb-lg-0.mx-lg-4
+            li.d-flex.mb-1
               i.fas.fa-pencil
-              p.mb-0 #[b Número 3 histórico de consumo:] puede ver el comportamiento de tu consumo de energía para el mes actual y en los últimos seis periodos facturados.
-            li.d-flex.mb-2
-              i.fas.fa-pencil
-              p.mb-0 #[b Energía activa:] es la energía consumida para la iluminación y el funcionamiento de todo tipo de aparatos eléctricos en el hogar.
-            li.d-flex.mb-2
-              i.fas.fa-pencil
-              p.mb-0 #[b Energía reactiva:] es la energía que algunos equipos eléctricos absorben de la red, pero que se debe controlar ya que si supera el 50 % de la energía activa será cobrada.
+              p.mb-0 #[b Número 3 histórico de consumo:] corresponde al nombre del titular de la cuenta y dirección en tu factura.
             li.d-flex.mb-lg-1.mb-0
               i.fas.fa-pencil
-              p.mb-0 #[b Número 4 periodo facturado y días facturados:] el periodo facturado hace referencia a las fechas de consumo y sobre el cual se aplica el cobro de la tarifa de energía.
+              p.mb-0 #[b Número 4 aviso informativo:] en tu factura siempre encontrarás la información sobre si tuvimos acceso a la lectura de tu medidor. Además, te informaremos a través de un semáforo en verde, amarillo o rojo si tu consumo de energía se encuentra en lo habitual o tiene un comportamiento diferente, para acceder a esta información debe ingresar a la página principal de la empresa: https://www.enel.com.co/
 
+    p.mb-5.mb-lg-4(data-aos="fade-right") Los días facturados corresponden a la diferencia entre la fecha de lectura actual y la fecha de lectura anterior, lo que permite determinar el número de días de consumo incluidos en la factura. Es importante considerar que, debido a la presencia de días festivos, los periodos de facturación pueden variar entre 27 y 33 días, completando al final del año un total de 365 días. Esta variación puede incidir en el valor facturado de un periodo a otro; por ello, resulta fundamental revisar los días facturados al analizar el consumo energético.
     
-    p.mb-5(data-aos="fade-right") Los días facturados corresponden a la diferencia entre la fecha de lectura actual y la fecha de lectura anterior, lo que permite determinar el número de días de consumo incluidos en la factura. Es importante considerar que, debido a la presencia de días festivos, los periodos de facturación pueden variar entre 27 y 33 días, completando al final del año un total de 365 días. Esta variación puede incidir en el valor facturado de un periodo a otro; por ello, resulta fundamental revisar los días facturados al analizar el consumo energético.
-
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-12.offset-lg-0
+      .col-lg-12.offset-lg-0.mb-lg-5
         .row.justify-content-center.align-items-center
           .col-lg-9.pad.com
-            .bg14.p-3
-              h4.mb-3.mx-3 Número 5 consumo mes kWh
-              p.mb-0.mx-3 Es el total de la energía consumida entre las fechas del periodo actual de facturación.  
-            .bg1.p-3
-              h4.mb-3.mx-3 Número 6 valor kWh aplicado
-              p.mb-0.pe-lg-5.mx-3 Es el precio cobrado por cada kilovatio hora del consumo, cuyo valor depende del resultado mensual de la fórmula tarifaria vigente definida por la Comisión de Regulación de Energía y Gas (CREG), por lo cual varia de un periodo a otro.
-            .bg15.p-3
-              h4.mb-3.mx-3 Número 7 consumo diario kWh y valor diario
-              p.mb-0.pe-lg-5.mx-3 Corresponde al consumo diario en kilovatios hora y cuánto cuesta por día para que se haga un consumo eficiente y siga ahorrando energía.
-            .bg1.p-3
-              h4.mb-3.mx-3 Número 8 Consumo promedio
-              p.mb-0.pe-lg-5.mx-3 Esta referencia permite comparar si el consumo actual es mayor, menor o similar al registrado en periodos anteriores. Corresponde al promedio del consumo de los últimos seis (6) periodos facturados.
-            .bg16.p-3
-              h4.mb-3.mx-3 Número 9 aviso informativo
-              p.mb-0.pe-lg-5.mx-3 En la factura siempre encontrará la información sobre si se tuvo acceso a la lectura del medidor, lo que debe hacer cuando no se logre acceder al medidor. Además, se informará a través de un semáforo en verde, amarillo o rojo si el consumo de energía se encuentra en lo habitual o tiene un comportamiento diferente.
-          .col-lg-5.sob.d-none.d-lg-block
+            .bg14.p-4
+              h4.mb-3 Número 5 fecha pago oportuno
+              p.mb-0 Es la fecha de plazo máximo en la que podrás pagar el valor total de tu factura.
+            .bg1.p-4
+              h4.mb-3 Número 6 fecha suspensión 
+              p.mb-0.pe-lg-5 Es la fecha a partir de la cual se generará la suspensión del servicio, si no se realiza el pago de la factura.
+            .bg15.p-4
+              h4.mb-3 Número 7 de próxima lectura
+              p.mb-0.pe-lg-5 Es la próxima fecha en la que visitaremos tu predio para tomar la lectura de tu medidor. Es importante que permitas el acceso a nuestro lector si tu medidor se encuentra en el interior de tu predio. En caso de que no puedas estar, puedes informarnos la lectura de tu medidor a través de nuestros canales y así facturar tu consumo real y no el promedio que define la ley.
+            .bg16.p-4
+              h4.mb-3 Número 8 periodo facturado y días facturados
+              p.mb-0.pe-lg-5 El periodo facturado hace referencia a las fechas de consumo y sobre el cual se aplica el cobro de la tarifa de energía.  
+              p.mb-0.pe-lg-5 Los días facturados son la diferencia entre la fecha de lectura actual y la fecha de lectura anterior, lo cual permite calcular los días de consumo en esta factura. Ten en cuenta que, por los días festivos, los periodos pueden variar entre 27 y 33 días (sumando al final del año los 365 días). Esto puede generar variación en el valor de tu factura de un periodo a otro, por lo que es importante que estés atento a los días facturados cuando revises tu consumo. 
+          .col-lg-4.sob.d-none.d-lg-block
             img.img-t.sobr(src="@/assets/curso/tema1/24.svg", alt="alt")
-
-
-    h3.mb-5(data-aos="fade-right") b) En la Figura 6 los números corresponden de la siguiente manera
-
 
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-6
         .titulo-sexto
           h5 Figura 6. 
           | Ejemplo factura ENEL parte frontal 3
-        img.mb-2(src='@/assets/curso/tema1/25.png' alt='Gráfica de consumo de energía que muestra el comportamiento mensual, los días facturados, el consumo total del mes y los valores aplicados en la factura.')
+        img.mb-2(src='@/assets/curso/tema1/25.svg' alt='Vista parcial de la factura de ENEL que resalta las secciones Información de la cuenta, Calidad del servicio, Contáctanos y el enlace a términos y condiciones.')
         figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
       .col-lg-6
         .bg13.p-4
-          ul.lista-ul.mb-0.mt-lg-2
-            li.d-flex.mb-2
+          p.mb-4.mx-lg-5.mt-lg-4 En la Figura 6 los números corresponden de la siguiente manera:
+          ul.lista-ul.mb-0.mb-lg-5.mx-lg-4
+            li.d-flex.mb-3
               i.fas.fa-pencil
-              p.mb-0 #[b Número 10 aviso informativo:] corresponde a los datos asociados a la cuenta de energía, tales como la clase del servicio (residencial, comercial, industrial, entre otros), el estrato socioeconómico, el número de ruta utilizado para la toma de lectura y distribución de la factura, así como el número del medidor.
-            li.d-flex.mb-2
+              p.mb-0 #[b Número 9 uso eficiente de energía:] son consejos que te compartimos para hacer un mejor uso de la energía en casa.
+            li.d-flex.mb-lg-1.mb-0
               i.fas.fa-pencil
-              p.mb-0 #[b Número 11 calidad del servicio:] en esta gráfica se muestra el número de horas con interrupción del servicio y el número de interrupciones (eventos) durante el periodo facturado.
-            li.d-flex.mb-2
-              i.fas.fa-pencil
-              p.mb-0 #[b Número 12 uso eficiente de energía:] son tips que comparte la empresa de energía para hacer un mejor uso de energía en casa.
-            li.d-flex.mb-lg-2.mb-0
-              i.fas.fa-pencil
-              p.mb-0 #[b Número 13 contacto con la empresa:] aquí refieren los canales habilitados para que se comuniquen con la empresa de servicios.
-
-
-    h3.mb-5(data-aos="fade-right") c) En la Figura 7 los números corresponden de la siguiente manera
-
- 
+              p.mb-0 #[b Número 10 contáctanos:] aquí tienes todos los canales habilitados para que te comuniques con nosotros.
+    
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-6.mb-lg-0.mb-5
-        .bg13.p-lg-5.p-4
-          ul.lista-ul.mb-0.mt-lg-2
-            li.d-flex.mb-2
+        .bg13.p-4
+          p.mb-2.mx-lg-5.mt-lg-0 En la Figura 7  los números corresponden de la siguiente manera:
+          ul.lista-ul.mb-0.mx-lg-4
+            li.d-flex.mb-1
               i.fas.fa-pencil
-              p.mb-0 #[b Número 14 medios de pago:] encontrará todos los canales que la empresa de energía tiene habilitados para el pago de la factura; puntos físicos y virtuales. 
-            li.d-flex.mb-2
+              p.mb-0 En la parte posterior de la factura, el cliente encontrará la información relacionada con los medios y canales disponibles para realizar el pago. Allí se detallan opciones como aplicaciones bancarias, internet, cajeros electrónicos, débito automático, billeteras virtuales y corresponsales bancarios. Asimismo, se incluye un código QR para pago en línea, así como la red de aliados, centros de servicio y almacenes autorizados donde se puede efectuar el pago de la factura. Esta sección facilita al usuario el acceso a múltiples alternativas para cumplir con su obligación de manera ágil y segura.
+            li.d-flex.mb-0
               i.fas.fa-pencil
-              p.mb-0 #[b Número 15 componentes tarifarios:] es el costo de cada uno de los componentes del valor de la energía: generación, transmisión, distribución, comercialización, pérdidas y restricciones.
-            li.d-flex.mb-lg-2.mb-0
-              i.fas.fa-pencil
-              p.mb-0 #[b Número 16 puntos de atención aseo:] si se incluye el cobro del servicio de aseo en la factura, en este apartado se encuentran los datos del operador correspondiente, a fin de atender cualquier inquietud o aclaración.
+              p.mb-0 #[b Número 11 medios de pago:] encontrarás todos los canales que tenemos habilitados para el pago de tu factura; puntos físicos y virtuales.
       .col-lg-6
         .titulo-sexto
           h5 Figura 7. 
           | Ejemplo factura ENEL parte frontal 4
-        img.mb-2(src='@/assets/curso/tema1/26.png' alt='Imagen con información sobre los medios de pago de una factura de servicios públicos, incluyendo opciones presenciales, virtuales y puntos de atención al usuario.')
+        img.mb-2(src='@/assets/curso/tema1/26.svg' alt='Imagen con información sobre los medios de pago de una factura de servicios públicos, incluyendo opciones presenciales, virtuales y puntos de atención al usuario.')
         figcaption Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
-      
     
-    p.mb-5(data-aos="fade-right") Detrás de la factura, el cliente encontrará el resumen detallado de los valores cobrados, tales como el cargo por el servicio de energía, el cobro por concepto de aseo (aplicable a determinados clientes), el valor de otros productos y servicios adquiridos, y el total general a pagar. Adicionalmente, se indica el plazo máximo establecido para efectuar el pago y otros datos de relevancia que el usuario debe conocer.
-
-
-    h3.mb-5(data-aos="fade-left") d) En la Figura 8 los números corresponden de la siguiente manera
-
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
+      .col-lg-6
+        .titulo-sexto
+          h5 Figura 8. 
+          | Ejemplo factura ENEL parte posterior 1
+        img.mb-2(src='@/assets/curso/tema1/27.svg' alt='Resumen del valor total a pagar en una factura de energía, mostrando los componentes cobrados y las fechas de pago oportuno, suspensión y lectura del medidor.')
+        figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
+      .col-lg-6
+        .bg13.p-4
+          p.mb-2 En la Figura 8 los números corresponden de la siguiente manera:
+          p.mb-2 #[b Número 1 total a pagar y valores a pagar de cada servicio y/o producto:] el valor total de la factura corresponde a todos los cobros asociados a tu cuenta; es decir que además del cobro por energía puede incluir otros como Aseo, Crédito Fácil CODENSA, productos y servicios de valor agregado como asistencias y publicaciones etc.
+          p.mb-0 Por cada servicio y/o producto con cobro en tu factura, encontrarás un ícono con un color representativo, permitiendo identificar fácilmente que es lo que vas a pagar:    
+          p.mb-0 • En color verde, encuentras lo relacionado con el consumo y otros cobros asociados a energía.
+          p.mb-0 • En color rosado, la agrupación de otros cobros de productos y servicios que sean aplicables a tu cuenta como por ejemplo la tarjeta crédito fácil CODENSA, asistencias, publicaciones etc.
+          p.mb-0 • En color azul, encuentras lo relacionado con el cobro por el servicio de aseo.
+            
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
+      .col-lg-7.mb-lg-0.mb-5
+        .bg13.p-4
+          ul.lista-ul.mb-4.mx-lg-4.mt-lg-4
+            li.d-flex.mb-1
+              i.fas.fa-pencil
+              p.mb-0 #[b Número 2 histórico de consumo:] puedes ver el comportamiento de tu consumo de energía para el mes actual y en los últimos seis periodos facturados.  
+          p.mb-0.mx-lg-5 #[b • Energía activa:] es la energía consumida para la iluminación y el funcionamiento de todo tipo de aparatos eléctricos en el hogar.
+          p.mb-4.mx-lg-5 #[b • Energía reactiva:] es la energía que algunos equipos eléctricos absorben de la red, pero que se debe controlar ya que si supera el 50% de la energía activa será cobrada.
+          ul.lista-ul.mb-0.mb-lg-4.mx-lg-4
+            li.d-flex.mb-4
+              i.fas.fa-pencil
+              p.mb-0 #[b Número 3 cálculo consumo de energía:] aquí encontrarás el número de kWh consumidos durante el periodo de facturación, como resultado de la resta de los kWh de la lectura actual menos los kWh de la lectura inmediatamente anterior, adicional la totalidad del valor facturado, multiplicando el número de kWh consumidos por el valor unitario de cada kWh.
+            li.d-flex.mb-0
+              i.fas.fa-pencil
+              p.mb-0 #[b Número 4 consumo mes kWh:] es el total de la energía consumida entre las fechas del periodo actual de facturación.
+      .col-lg-5.d-none.d-lg-block
+        img(src='@/assets/curso/tema1/42.png' alt='')
 
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-primario.p-4.h-100.mb-0
-          .tarjeta-numerada__numero
-            .h2 1
           p.text-center.mx-3 
-            b Número 1 total a pagar y valores a pagar de cada servicio
-          p.mb-0.text-center.mx-3  Encontrará todos los canales que la empresa de energía tiene habilitados para el pago de la factura; puntos físicos y virtuales. 
+            b Número 5 promedio
+          p.mb-0.text-center Es la referencia con la que puedes comparar si tu consumo actual es mayor, menor o similar a lo que has venido consumiendo. Esta referencia corresponde al promedio del consumo de los últimos 6 periodos.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-secundario.p-4.h-100.mb-0
-          .tarjeta-numerada__numero
-            .h2 2
           p.text-center.mx-3  
-            b Número 2 fecha de pago oportuno
-          p.mb-0.text-center.mx-3 Es la fecha de plazo máximo en la que podrá cancelar el valor total de la factura.
+            b Número 6 KWH aplicado
+          p.mb-0.text-center Es el precio cobrado por cada kilovatio hora de tu consumo, cuyo valor depende del resultado mensual de la fórmula tarifaria vigente definida por la Comisión de Regulación de Energía y Gas (CREG), por lo cual varia de un periodo a otro.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-contenido.p-4.h-100.mb-0
-          .tarjeta-numerada__numero
-            .h2 3
           p.text-center.mx-3  
-            b Número 3 fecha de suspensión
-          p.mb-0.text-center.mx-3 Es la fecha a partir de la cual se generará la suspensión del servicio, si no se realiza el pago de la factura.
+            b Número 7 cosumo diario kWh y valor diario
+          p.mb-0.text-center Corresponde a tu consumo diario en kilovatios hora y cuánto te cuesta por día para que hagas un consumo eficiente y sigas ahorrando energía.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-botones.hh.p-4.h-100.mb-0
-          .tarjeta-numerada__numero
-            .h2 4
           p.text-center.mx-3  
-            b Número 4 fecha de próxima lectura
-          p.mb-0.text-center.mx-3 Corresponde a la próxima fecha en la que se realizará la visita al predio para tomar la lectura del medidor.
-
-
-    .bg4.p-4.mb-5(data-aos="fade-left")
-      .row.justify-content-center.align-items-center.mb-0
-        .col-lg-8
-          .titulo-sexto
-            h5 Figura 8. 
-            | Ejemplo factura ENEL parte posterior 1
-          img.mb-2(src='@/assets/curso/tema1/27.png' alt='Resumen del valor total a pagar en una factura de energía, mostrando los componentes cobrados y las fechas de pago oportuno, suspensión y lectura del medidor.')
-          figcaption Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
-      
-  
-    h3.mb-5(data-aos="fade-right") e) En la Figura 9 los números corresponden de la siguiente manera:
-
-
-    .row.justify-content-center.align-items-end.mb-0(data-aos="fade-left")
-      .col-lg-6.mb-lg-0.mb-5
-        .bg13.p-lg-5.p-4
-          ul.lista-ul.mb-0.mt-lg-5
-            li.d-flex.mb-3
-              i.fas.fa-pencil
-              p.mb-0 #[b Número 5 cálculo del consumo de energía:] aquí encontrará el número de kWh consumidos durante el periodo de facturación, como resultado de la resta de los Kwh de la lectura actual menos los Kwh de la lectura inmediatamente anterior, adicional la totalidad del valor facturado, multiplicando el número de kWh consumidos por el valor unitario de cada kWh.
-            li.d-flex.mb-3
-              i.fas.fa-pencil
-              p.mb-0 #[b Número 6 cajetilla de cobro:] para cada uno de los cobros aplicados en la factura, es decir, consumo y otros cobros asociados a la energía (color naranja), otros cobros de productos y servicios (color morado) y aseo (color azul), se presenta una cajetilla del mismo color en la que se detalla la información correspondiente a los valores facturados.
-            li.d-flex.mb-3
-              i.fas.fa-pencil
-              p.mb-0 #[b Número 7 cajetilla de cajetilla valor de reconexión:] aquí encontrará el valor del cobro por reconexión en caso de que se haya suspendido su servicio.
-            li.d-flex.mb-lg-4.mb-0
-              i.fas.fa-pencil
-              p.mb-0 #[b Número 8 cajetilla de aseo:] toda la información del servicio de aseo, incluido el valor a pagar.
+            b Número 8 componentes tarifarios
+          p.mb-0.text-center Es el costo de cada uno de los componentes del valor de la energía: Generación, transmisión, distribución, comercialización, perdidas y restricciones.
+    
+    .row
+      .col-lg-12
+        .titulo-sexto
+          h5 Figura 9. 
+          | Ejemplo factura ENEL detalle de otros cobros en recibo de electricidad. Parte posterior 2 
+    
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-6
-        .bg4.p-4.mb-2
+        img.mb-2(src='@/assets/curso/tema1/43.svg' alt='Resumen de los valores detallados en la factura de energía y aseo, mostrando los cobros desglosados por conceptos, subtotales, totales por servicio y datos de facturación del usuario.')
+        figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
+      .col-lg-6
+        .bg13.p-4
+          p.mb-1.mx-lg-5.mt-lg-0 En la Figura 9 los números corresponden de la siguiente manera:
+          ul.lista-ul.mb-0.mx-lg-4
+            li.d-flex.mb-0
+              i.fas.fa-pencil
+              p.mb-0 #[b Número 9 cajetillas de cobro:] para cada uno de los cobros aplicados en tu factura, encontrarás una cajetilla del mismo color con el detalle de los cobros cargados:
+          p.mb-0.mx-lg-5 • Consumo y otros cobros asociados a energía (color verde).
+          p.mb-0.mx-lg-5 • Otros cobros de productos y servicios (color rosado).
+          ul.lista-ul.mb-0.mx-lg-4
+            li.d-flex.mb-0
+              i.fas.fa-pencil
+              p.mb-0 #[b Numeral 10 cajetilla valor reconexión:] aquí encontraras el valor del cobro por reconexión en caso de que se haya suspendido tu servicio.
+
+    .row
+      .col-lg-12
+        .titulo-sexto
+          h5 Figura 10. 
+          | Ejemplo factura ENEL detalle del servicio de aseo en la factura. Parte posterior 3
+    
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
+      .col-lg-6
+        img.mb-2(src='@/assets/curso/tema1/44.svg' alt='')
+        figcaption.mb-lg-0.mb-5 Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
+      .col-lg-6
+        .bg13.p-4.p-lg-5
+          p.mb-4.mx-lg-5.mt-lg-4 En la Figura 10 los números corresponden de la siguiente manera:
+          ul.lista-ul.mb-0.mx-lg-4.mb-lg-4
+            li.d-flex.mb-0
+              i.fas.fa-pencil
+              p.mb-0 #[b Número 11 cajetilla de aseo:] si aplica encontrarás una cajetilla de color azul con toda la información del servicio de aseo, incluido el valor a pagar.
+
+    .row
+      .col-lg-12
+        .titulo-sexto
+          h5 Figura 11. 
+          | Ejemplo factura ENEL información de pago en la factura de servicios. Parte posterior 4
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-12
+        .bg1.p-lg-5.p-4
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-12
-              .titulo-sexto
-                h5 Figura 9. 
-                | Ejemplo factura ENEL parte posterior 2
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-9
-              img.mb-2(src='@/assets/curso/tema1/28.png' alt='Resumen de los valores detallados en la factura de energía y aseo, mostrando los cobros desglosados por conceptos, subtotales, totales por servicio y datos de facturación del usuario.')
-        figcaption Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
-      
+            .col-lg-6
+              p.mb-4.mx-lg-4.mt-lg-4 En la Figura 11 los números corresponden de la siguiente manera:
+              ul.lista-ul.mb-0.mx-lg-0.mb-lg-4
+                li.d-flex.mb-0
+                  i.fas.fa-pencil
+                  p.mb-0 #[b Número 12 calidad del servicio:] en esta gráfica se muestra el número de horas con interrupción del servicio y el número de interrupciones (eventos) durante el periodo facturado.
+            .col-lg-6
+              img.mb-2(src='@/assets/curso/tema1/45.svg' alt='')
+              figcaption Fuente: Enel Colombia. (2025). Entendimiento de la factura de energía. 
+
 
     separador
     #t_1_2.titulo-segundo.mb-5
       h2 1.2 Aplicación práctica del análisis de consumo
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-8.col-10.mb-lg-0.mb-4
@@ -572,7 +558,6 @@
             img(src='@/assets/curso/tema1/30.svg', alt='')     
           .col-lg-11
             p.mb-0 El enfoque de sostenibilidad exige que el análisis de consumo sea sistemático y estructurado, de modo que los datos recolectados permitan realizar diagnósticos precisos y comparables. Para ello, se utilizan herramientas como la factura de energía, los registros de carga, los indicadores de desempeño y los métodos de evaluación del ciclo de vida. Este análisis integral facilita la identificación de ineficiencias, la priorización de intervenciones y la formulación de estrategias que promuevan un uso racional, responsable y eficiente de la energía.
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-9
@@ -592,7 +577,6 @@
         p.mb-0 No todos los consumos son iguales ni tienen el mismo potencial de ahorro.
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema1/31.png', alt='')     
-
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-10
@@ -630,18 +614,15 @@
     separador
     #t_1_3.titulo-segundo.mb-5
       h2 1.3 Sostenibilidad: definición y características
-
-
-    .bl1(data-aos="fade-right") 
-      .bloque-texto-a.color-secundario.p-4.p-md-4.p-lg-5.mb-5
-        .row.m-0.align-items-center.justify-content-center  
-          .col-lg-8.mb-0.comi
+    
+    .bloque-texto-a.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-5(data-aos="fade-right") 
+        .row.m-0.align-items-center.justify-content-center
+          .col-lg-9.mb-0.mb-lg-0
             .bloque-texto-a__texto.p-lg-5.p-md-4.p-4.mb-lg-0.mb-4.my-3.my-lg-0
-              p.mb-4 La definición de sostenibilidad requiere una visión integral que incorpore el Ciclo de Vida (ACV), es decir, el análisis de los impactos desde la extracción de materias primas (donde se generan impactos ambientales iniciales) hasta la disposición final (donde se aplica la economía circular). Esta perspectiva es clave para que las soluciones de eficiencia energética no generen nuevos problemas en otras etapas del ciclo.
-              p.mb-0 La gestión energética sostenible no es simplemente ahorrar costos (pilar económico), sino asegurar que ese ahorro no comprometa el medio ambiente ni la equidad social.
-          .col-lg-4.col-md-6.mb-0.comii
-            img.enci.img-a(src='@/assets/curso/tema1/34.svg', alt='')
-
+              p.mb-4.pe-lg-5 La definición de sostenibilidad requiere una visión integral que incorpore el Ciclo de Vida (ACV), es decir, el análisis de los impactos desde la extracción de materias primas (donde se generan impactos ambientales iniciales) hasta la disposición final (donde se aplica la economía circular). Esta perspectiva es clave para que las soluciones de eficiencia energética no generen nuevos problemas en otras etapas del ciclo.
+              p.mb-0.pe-lg-5 La gestión energética sostenible no es simplemente ahorrar costos (pilar económico), sino asegurar que ese ahorro no comprometa el medio ambiente ni la equidad social.
+          .col-lg-3.col-md-6.col-9.mb-0
+            img.enci.d-none.d-lg-block(src='@/assets/curso/tema1/34.svg', alt='')
 
     .cont_5_1.mt-4(data-aos="fade-left").mb-5
       .row.justify-content-center
@@ -673,7 +654,6 @@
               p.mb-0.txp #[b Es equitativa] (intersección social / económico): proporciona beneficios justos a los grupos de interés (ejemplo: comunidades locales, empleados).
               p.mb-0.txp #[b Es soportable] (intersección ambiental / social): no degrada los recursos naturales de los que depende la sociedad.
 
-
     .bg17.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-10
@@ -684,9 +664,7 @@
               p.mb-0 El enfoque de Análisis de Ciclo de Vida #[b (ACV)] es la metodología central que permite llevar la sostenibilidad a la práctica, superando la visión limitada de la factura eléctrica.
           p.mb-0 #[b ACV como herramienta de evaluación:] el ACV obliga al gestor energético a mirar los impactos generados antes y después de la fase de uso. Si se elige una tecnología de alta eficiencia, pero su fabricación o disposición final genera una alta contaminación, la solución no es verdaderamente sostenible.
 
-
     p.mb-5(data-aos="fade-left") Etapas del vínculo:
-
 
     .row.justify-content-center.align-items-center.mb-3.mb-lg-5(data-aos="fade-right")
       .col-lg-3.d-none.d-lg-block
@@ -719,7 +697,6 @@
               p.mb-0.text-center ¿Cómo se gestionarán los residuos de esa tecnología? Aquí es donde el principio de economía circular es imperativo, buscando la reutilización o el reciclaje de materiales (ejemplo: metales pesados en baterías).
         
     p.mb-0(data-aos="fade-left") Al adoptar esta visión, el aprendiz se prepara para la siguiente sección del documento, donde se evaluarán los impactos en cada una de estas etapas del ciclo, transformando el análisis de consumo en una evaluación de la huella ambiental del proceso.
-
 
 
 </template>
