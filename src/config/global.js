@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Usos y consumo energético según contexto',
     Description:
-      'El componente formativo Usos y consumo energético según contexto proporcionará al aprendiz los fundamentos teóricos y metodológicos necesarios para realizar una evaluación inicial de la sostenibilidad en cualquier proceso productivo. Su enfoque se centra en el análisis económico del consumo energético mediante la interpretación de la factura colombiana y en la identificación de impactos ambientales, sociales y económicos asociados al Ciclo de Vida (ACV) del proceso. <br><br> Adicionalmente, se abordarán los principios de sostenibilidad: eficiencia, circularidad y resiliencia, como ejes para comprender la dinámica del uso responsable de los recursos. También se examinará el marco normativo colombiano y la composición de la matriz energética nacional, con el propósito de preparar al aprendiz para realizar diagnósticos pertinentes en la gestión y optimización de los recursos energéticos.',
+      'El componente formativo Usos y consumo energético según contexto proporcionará al aprendiz los fundamentos teóricos y metodológicos necesarios para realizar una evaluación inicial de la sostenibilidad en cualquier proceso productivo. Su enfoque se centra en el análisis económico del consumo energético mediante la interpretación de la factura colombiana y en la identificación de impactos ambientales, sociales y económicos asociados al ciclo de vida del proceso. <br><br> Adicionalmente, se abordarán los principios de sostenibilidad: eficiencia, circularidad y resiliencia, como ejes para comprender la dinámica del uso responsable de los recursos. También se examinará el marco normativo colombiano y la composición de la matriz energética nacional, con el propósito de preparar al aprendiz para realizar diagnósticos pertinentes en la gestión y optimización de los recursos energéticos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -204,12 +204,27 @@ export default {
   referencias: [
     {
       referencia:
+        'Andesco. (2024). En el primer semestre del 2024, con el ingreso de 40 proyectos nuevos, se fortalece la seguridad del Sistema Interconectado Nacional.',
+      link: '',
+    },
+    {
+      referencia:
         'Comisión de Regulación de Energía y Gas. (2020). Estructura tarifaria del servicio de energía eléctrica (Resolución CREG 015 de 2018 y sus modificaciones).',
       link: '',
     },
     {
       referencia:
         'Congreso de la República de Colombia. (2021). Ley 2099 de 2021: Por medio de la cual se dictan disposiciones para la transición energética, la dinamización del mercado energético, la reactivación económica del país y se dictan otras disposiciones (Diario Oficial No. 51.738).',
+      link: '',
+    },
+    {
+      referencia:
+        'Contenidos Sucerman. (s.f.). Lección 1. Desarrollo Sostenible',
+      link: '',
+    },
+    {
+      referencia:
+        'Cumandes. (2025). ¿Sabes cuál es la diferencia entre kW y kVA?',
       link: '',
     },
     {
@@ -223,18 +238,7 @@ export default {
       link: '',
     },
     {
-      referencia:
-        'Enel Colombia. (2025). Entendimiento de la factura de energía.',
-      link: '',
-    },
-    {
-      referencia:
-        'Equitel. (2025). ¿Sabes cuál es la diferencia entre kW y kVA? Cumandes.',
-      link: '',
-    },
-    {
-      referencia:
-        'Example Life Cycle Assessment Stages Diagram. (2020). [Diagrama]. Wikimedia Commons.',
+      referencia: 'Enel Colombia. (2025). ¿Cómo leer tu factura de energía?',
       link: '',
     },
     {
@@ -243,7 +247,13 @@ export default {
       link: '',
     },
     {
-      referencia: 'Low Carbon Power. (2025). Colombia.',
+      referencia:
+        'Low Carbon Power. (s.f.). Matriz Energética de Colombia 2024.',
+      link: '',
+    },
+    {
+      referencia:
+        'MtW17. (2020). Example Life Cycle Assessment Stages diagram [Imagen]. Wikimedia Commons.',
       link: '',
     },
     {
@@ -261,15 +271,6 @@ export default {
         'Rincón, J. M., & Rincón, A. E. (2021). Análisis de ciclo de vida (ACV) como herramienta para la evaluación de sostenibilidad de proyectos energéticos. Revista de la Escuela Colombiana de Ingeniería, 120(2), 54–67.',
       link: '',
     },
-    {
-      referencia: 'Sucerman. (s.f.). Ciencias, unidad 4, lección 1.',
-      link: '',
-    },
-    {
-      referencia:
-        'XM. (2024). En el primer semestre del 2024, con el ingreso de 40 proyectos nuevos, se fortalece la seguridad del Sistema Interconectado Nacional.',
-      link: '',
-    },
   ],
   creditos: [
     {
@@ -277,7 +278,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -292,7 +294,7 @@ export default {
       autores: [
         {
           nombre: 'Gianmarco Serrano Cabarcas',
-          cargo: 'Experto Temático Electricidad',
+          cargo: 'Experto Temático',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -326,7 +328,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Erika Daniela Manrique Rueda',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

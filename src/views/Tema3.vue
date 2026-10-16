@@ -48,17 +48,17 @@
       .col-lg-12
         .bg4.p-4.mb-2
           .titulo-sexto.mb-4
-            h5 Figura 11. 
+            h5 Figura 13. 
             | Composición matriz energética colombiana para el año 2024
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-8
-              img.mb-0(src='@/assets/curso/tema3/6.svg' alt='Gráfico circular que muestra la composición de la matriz eléctrica de Colombia, donde el 64 % corresponde a fuentes bajas en carbono, principalmente hidroeléctrica con un 58.1 %, seguida de gas, carbón, solar, biocombustibles y petróleo. Enlace: https://lowcarbonpower.org/es/region/Colombia')
-        figcaption Fuente: Low Carbon Power (2025). 
+              img.mb-0(src='@/assets/curso/tema3/6.svg' alt='Gráfico circular que muestra la composición de la matriz eléctrica de Colombia, donde el 64 % corresponde a fuentes bajas en carbono, principalmente hidroeléctrica con un 58.1 %, seguida de gas, carbón, solar, biocombustibles y petróleo.')
+        figcaption Nota. Adaptado de Matriz Energética de Colombia, de Low Carbon Power, 2024, LowCarbonPower.org.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
-        .titulo.mb-5
-          img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+        .tit.mb-5
+          img(:src="require('@/assets/curso/tema1/sub.svg')")
           h3.mb-0 Retos estratégicos
         ul.lista-ul.mb-4
           li.d-flex.mb-2
@@ -71,7 +71,7 @@
             i.fas.fa-angle-right
             p.mb-0 #[b Gestión ambiental:] controlar los impactos generados por la extracción y el transporte de los combustibles de respaldo.
         .bg24.p-4
-          p.mb-0 Durante el primer semestre de 2024 se declararon en operación comercial 32 proyectos de generación y 8 de transmisión, los cuales ingresaron para fortalecer la flexibilidad, seguridad y confiabilidad del Sistema interconectado nacional. Con la entrada de estos nuevos proyectos de generación el SIN ha superado el primer gigavatio de capacidad proveniente de fuentes renovables, no obstante, continúa el camino hacia la diversificación y transformación energética de nuestra matriz de generación de energía eléctrica.
+          p.mb-0 Durante el primer semestre de 2024 se declararon en operación comercial 32 proyectos de generación y 8 de transmisión, los cuales ingresaron para fortalecer la flexibilidad, seguridad y confiabilidad del Sistema Interconectado Nacional (SIN). Con la entrada de estos nuevos proyectos de generación el SIN ha superado el primer gigavatio de capacidad proveniente de fuentes renovables, no obstante, continúa el camino hacia la diversificación y transformación energética de nuestra matriz de generación de energía eléctrica.
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema3/7.png')
 
@@ -81,12 +81,12 @@
       .col-lg-12
         .bg4.p-4.mb-2
           .titulo-sexto.mb-4
-            h5 Figura 12. 
+            h5 Figura 14. 
             | Proyectos de generación de energía para el año 2024
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-8
-              img.mb-0(src='@/assets/curso/tema3/8.svg' alt='Mapa de Colombia que muestra, por departamentos, la ubicación y capacidad en megavatios de diferentes proyectos de generación energética instalados en 2024. Enlace: https://andesco.org.co/en-el-primer-semestre-del-2024-con-el-ingreso-de-40-proyectos-nuevos-se-fortalece-la-seguridad-del-sistema-interconectado-nacional/')
-        figcaption Fuente: Andesco (2024).
+              img.mb-0(src='@/assets/curso/tema3/8.svg' alt='Mapa de Colombia que muestra, por departamentos, la ubicación y capacidad en megavatios de diferentes proyectos de generación energética instalados en 2024.')
+        figcaption Nota. Adaptado de Proyectos de generación primer semestre del 2024, de Andesco, 2024.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-6
@@ -96,10 +96,10 @@
           p.mb-0 Estas plantas aportan 673 MW a la capacidad efectiva neta del SIN. Además, la capacidad del sistema se vio reforzada con la entrada en operación de la planta térmica termocaribe 3 de 52 MW. Con lo anterior, a 30 de junio de 2024 la matriz de generación del SIN tiene los siguientes porcentajes de participación por tecnología: 
       .col-lg-6
         .titulo-sexto.mb-lg-5.mb-4
-          h5 Figura 13. 
+          h5 Figura 15. 
           | Tipos de proyectos de generación de energía para el año 2024
-        img.mb-4(src='@/assets/curso/tema3/9.svg' alt='Tabla que muestra la capacidad efectiva neta en megavatios de tres tecnologías de generación eléctrica en Colombia: hidráulica (13.220 MW, 63,7 %), térmica (6.274 MW, 30,2 %) y solar (1.273 MW, 6,1 %). Enlace: https://www.xm.com.co/noticias/7028-en-el-primer-semestre-del-2024-con-el-ingreso-de-40-proyectos-nuevos-se-fortalece-la')
-        figcaption Fuente: Andesco (2024).
+        img.mb-4(src='@/assets/curso/tema3/9.svg' alt='Tabla que muestra la capacidad efectiva neta en megavatios de tres tecnologías de generación eléctrica en Colombia: hidráulica (13.220 MW, 63,7 %), térmica (6.274 MW, 30,2 %) y solar (1.273 MW, 6,1 %).')
+        figcaption Nota. Adaptado de Proyectos de generación primer semestre del 2024, de Andesco, 2024. 
 
 
     separador
@@ -108,8 +108,8 @@
 
     p.mb-5(data-aos="fade-left") El marco normativo en Colombia no solo permite la transición energética, sino que la impulsa mediante incentivos y obligaciones, lo cual es fundamental para la planificación de la gestión ambiental.
 
-    .titulo.mb-5(data-aos="fade-right")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+    .tit.mb-5(data-aos="fade-right")
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 Leyes Fundamentales para la gestión sostenible
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
@@ -120,11 +120,11 @@
               .tarjeta-numerada__numero
                 .h2 1
               p.text-center.mx-3.mb-4 
-                b Ley 697 de 2001 (Uso racional y eficiente de la energía - URE)
+                b Ley 697 de 2001 (Uso Racional y Eficiente de la Energía - URE)
               ul.lista-ul.mx-3.mb-0
                 li.d-flex.mb-4
                   i.fas.fa-star
-                  p.mb-0 Fue la primera ley que estableció la obligatoriedad de fomentar el uso Racional y Eficiente de la Energía (URE).
+                  p.mb-0 Fue la primera ley que estableció la obligatoriedad de fomentar el Uso Racional y Eficiente de la Energía (URE).
                 li.d-flex.mb-0
                   i.fas.fa-star
                   p.mb-0 Puso las bases para las auditorías energéticas y la implementación de programas de ahorro, enfocándose en la eficiencia como política de Estado.
@@ -173,7 +173,7 @@
               tr
                 td.text-center #[b  Circularidad]
                 td Normativa ambiental sobre gestión de residuos peligrosos (aplicable a baterías y residuos electrónicos).
-                td Minimización del impacto en la fase de Fin de Ciclo de equipos de ERNC.
+                td Minimización del impacto en la fase de fin de ciclo de equipos de ERNC.
 
     p.mb-0(data-aos="fade-right") El conocimiento de estas leyes permite al aprendiz consultar la normativa vigente y relacionar los principios de sostenibilidad con los requerimientos legales, asegurando que las futuras estrategias de eficiencia y mitigación no solo sean viables, sino también legales y fiscalmente atractivas.
 

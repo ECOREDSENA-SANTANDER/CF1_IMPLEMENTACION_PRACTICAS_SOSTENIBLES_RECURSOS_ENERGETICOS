@@ -158,7 +158,7 @@ figcaption
   background-color: #A9B9F7
   border-radius: 18px
 
-.titulo
+.tit
   background-color: #A9B9F7
   border-radius: 50px 60px 20px 50px
   width: fit-content
@@ -168,7 +168,7 @@ figcaption
   align-items: center
   @media only screen and (min-width: 768px) and (max-width: 1023px)
     padding: 8px 20px 8px 65px
-.titulo img
+.tit img
   width: 63px
   height: 63px
   position: absolute
@@ -456,22 +456,17 @@ figcaption
 .tabla-a th
     border-color: #A3E2D9
 .tabla-a
-  table th
-    padding: 15px 13px
-  table td 
-    padding: 10px 10px
-.tabla-a
   table
     width: 100%
-    min-width: 1200px 
-    table-layout: fixed  
-    border-collapse: collapse
-    td
-      overflow-wrap: break-word
-      word-wrap: break-word
-      white-space: normal 
+    th, td
       vertical-align: top
       text-align: left
+      //border: none
+  table th
+    padding: 13px 30px
+    text-align: left
+  table td 
+    padding: 13px 30px
 .tab1
   th:nth-child(1) 
     width: 20%

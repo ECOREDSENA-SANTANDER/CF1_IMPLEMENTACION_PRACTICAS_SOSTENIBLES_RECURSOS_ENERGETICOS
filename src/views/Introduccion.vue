@@ -14,11 +14,11 @@
         .bg1.p-4
           .row.justify-content-center.mb-lg-2.mt-lg-3
             .col-lg-2
-              img.img-t.img-a.mb-lg-0.mb-4(src='@/assets/curso/intro/2.svg' alt='AvatarTop')
+              img.img-t.img-a.mb-lg-0.mb-4(src='@/assets/curso/intro/2.svg')
             .col-lg-10
               p.mb-0 El manejo de los recursos energéticos constituye uno de los desafíos más relevantes del siglo XXI, debido al aumento de la demanda global, la presión sobre el medio ambiente y la necesidad de mantener la competitividad económica. Este material formativo ofrece una visión integral que permite transformar la gestión de los recursos, pasando de una actividad centrada únicamente en el consumo a una práctica estratégica orientada a la sostenibilidad. Para ello, el material guía al aprendiz en el análisis del consumo energético como un indicador susceptible de optimización, mediante herramientas como la factura de energía y el análisis del ciclo de vida, que permiten identificar impactos ambientales, sociales y económicos.
       .col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/intro/1.png' alt='AvatarTop')
+        img(src='@/assets/curso/intro/1.png')
 
     p.mb-5(data-aos="fade-left") Finalmente, el documento contextualiza la temática en el marco energético nacional, abordando la composición de la matriz energética colombiana y la normativa vigente. Este enfoque permite fundamentar cada decisión de gestión en criterios legales y técnicos, fortaleciendo la capacidad del aprendiz para desarrollar procesos de uso eficiente, responsable y sostenible de la energía.
     

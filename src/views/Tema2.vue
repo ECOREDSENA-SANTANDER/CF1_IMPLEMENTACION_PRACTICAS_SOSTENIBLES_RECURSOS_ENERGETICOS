@@ -65,12 +65,12 @@
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto
-          h5 Figura 10. 
+          h5 Figura 12. 
           | Ejemplo de ciclo de vida
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-10
             img.mb-4(src='@/assets/curso/tema2/7.svg' alt='Diagrama que representa las etapas del ciclo de vida de un producto desde la extracción de materias primas hasta el fin de vida, mostrando entradas, salidas y flujos de reutilización y reciclaje.')
-        figcaption Fuente: MtW17 (2020). 
+        figcaption Nota. Adaptado de Example Life Cycle Assessment Stages diagram, de MtW17, 2020, Wikimedia Commons. CC-BY-SA-4.0.
       
 
     separador
@@ -95,43 +95,39 @@
               tr
                 td.text-center #[b Ambiental]
                 td Alteraciones negativas en el entorno natural y agotamiento de recursos.
-                td Emisiones de GEI (CO#[sub 2], Metano), contaminación de agua y suelo, deforestación, ruido.
-              
+                td Emisiones de gases de efecto invernadero (GEI), como CO#[sub 2] y metano, contaminación de agua y suelo, deforestación, ruido.
               tr
                 td.text-center #[b Técnico]
                 td Problemas operativos que comprometen la calidad y la eficiencia del servicio.
                 td Bajo factor de potencia (penalizaciones), fallas en equipos por sobrecalentamiento, interrupciones o microcortes de suministro.
-              
               tr
                 td.text-center #[b Económico]
                 td Costos financieros directos e indirectos, y riesgos de inversión.
-                td Sobrecostos por consumo reactivo, multas por incumplimiento normativo, incremento del CAPEX (Inversión de Capital) o OPEX (Gasto Operacional).
-              
+                td Sobrecostos por consumo reactivo, multas por incumplimiento normativo, incremento del CAPEX (inversión de capital) o OPEX (gasto operacional).
               tr
                 td.text-center #[b Social]
                 td Consecuencias sobre las comunidades, la salud y la seguridad.
                 td Reasentamiento de comunidades (ejemplo: proyectos hidroeléctricos), riesgos de seguridad en el trabajo, contaminación atmosférica que afecta la salud pública.
-        figcaption Referencia Tabla - Norma APA
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
-        img(src='@/assets/curso/tema2/8.svg' alt='')
+        img(src='@/assets/curso/tema2/8.svg')
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-6.mb-lg-0.mb-5
         .bg19.p-4
-          p.mb-lg-2.mt-lg-3.mx-lg-3.mx-0.mb-0.mt-0 El impacto ambiental más crítico y medible es la generación de Gases de Efecto Invernadero (GEI). El CO#[sub 2] es el principal indicador. La capacidad de diagnosticar y valorar el impacto energético se traduce en saber:
+          p.mb-lg-2.mt-lg-3.mx-lg-3.mx-0.mb-0.mt-0 El impacto ambiental más crítico y medible es la generación de gases de efecto invernadero (GEI). El CO#[sub 2] es el principal indicador. La capacidad de diagnosticar y valorar el impacto energético se traduce en saber:
       .col-lg-2.d-none.d-lg-block
-        img(src='@/assets/curso/tema2/9.svg' alt='')
+        img(src='@/assets/curso/tema2/9.svg')
       .col-lg-4
-        .bg20.p-4
-          ul.lista-ul.mb-0
+        .bg20.p-4.p-lg-3
+          ul.lista-ul.mb-0.mt-lg-2.mb-lg-2
             li.d-flex.mb-0
               i.fas.fa-star.t2
               p.mb-0 Cuántos kWh se consumen (de la factura).
             li.d-flex.mb-0
               i.fas.fa-star.t2
-              p.mb-0 Cuál es el factor de emisión de la fuente de energía (ej. kg / CO#[sub 2] por kWh generado).
+              p.mb-0 Cuál es el factor de emisión de la fuente de energía (ejemplo: kg / CO#[sub 2] por kWh generado).
             li.d-flex.mb-0
               i.fas.fa-star.t2
               p.mb-0 Cuál es la huella de carbono del proceso.
@@ -157,27 +153,27 @@
                   p.mb-0 #[b Enfoque práctico:] se materializa a través de auditorías energéticas (analizando la iluminación, motores, climatización, etc.) y la implementación de tecnologías con mayor rendimiento energético.
                 li.d-flex.mb-0
                   i.fas.fa-angle-right.t2
-                  p.mb-0 #[b Vínculo con el análisis:] una estrategia de eficiencia es la que ofrece el Periodo de Recuperación (PR) más corto y el mayor Valor Actual Neto (VAN), ya que el costo de la energía no utilizada es cero.
+                  p.mb-0 #[b Vínculo con el análisis:] una estrategia de eficiencia es la que ofrece el periodo de recuperación (PR) más corto y el mayor valor actual neto (VAN), ya que el costo de la energía no utilizada es cero.
           .row.justify-content-center.align-items.p-0(titulo="b) Renovabilidad (descarbonización de la fuente)")
             .col-lg-11.mb-0
               p.mb-4.mx-lg-4 Este principio se enfoca en la fuente de la energía consumida:
               ul.lista-ul.mb-0.mx-lg-4
                 li.d-flex.mb-2
                   i.fas.fa-angle-right.t2
-                  p.mb-0 #[b Concepto:] sustitución progresiva de fuentes de energía basadas en combustibles fósiles (con alta emisión de GEI) por Energías Renovables No Convencionales (ERNC), como la solar, eólica, biomasa y geotérmica.
+                  p.mb-0 #[b Concepto:] sustitución progresiva de fuentes de energía basadas en combustibles fósiles (con alta emisión de GEI) por energías renovables no convencionales (ERNC), como la solar, eólica, biomasa y geotérmica.
                 li.d-flex.mb-2
                   i.fas.fa-angle-right.t2
                   p.mb-0 #[b Enfoque práctico:] en el ámbito empresarial, se traduce en proyectos de autogeneración o cogeneración a pequeña y mediana escala (paneles fotovoltaicos en tejados) y la compra de energía certificada con origen renovable.
                 li.d-flex.mb-0
                   i.fas.fa-angle-right.t2
-                  p.mb-0 #[b Vínculo con ACV:] la renovabilidad ataca directamente el impacto ambiental en la fase de Generación / Combustión y es clave para el cumplimiento de las metas climáticas nacionales (NDC).
+                  p.mb-0 #[b Vínculo con ACV:] la renovabilidad ataca directamente el impacto ambiental en la fase de generación / combustión y es clave para el cumplimiento de las metas climáticas nacionales (NDC).
           .row.justify-content-center.align-items.p-0(titulo="c) Resiliencia (la seguridad del suministro)")
             .col-lg-11.mb-0
               p.mb-4.mx-lg-4 La resiliencia aborda la vulnerabilidad del sistema energético frente a amenazas:
               ul.lista-ul.mb-0.mx-lg-4
                 li.d-flex.mb-2
                   i.fas.fa-angle-right.t2
-                  p.mb-0 #[b Concepto:] Es la capacidad de un sistema o empresa para soportar, absorber, recuperarse y adaptarse rápidamente a interrupciones o fallas graves (ejemplo: fenómenos climáticos extremos, fallas en la red de transmisión, ciberataques).
+                  p.mb-0 #[b Concepto:] es la capacidad de un sistema o empresa para soportar, absorber, recuperarse y adaptarse rápidamente a interrupciones o fallas graves (ejemplo: fenómenos climáticos extremos, fallas en la red de transmisión, ciberataques).
                 li.d-flex.mb-2
                   i.fas.fa-angle-right.t2
                   p.mb-0 #[b Enfoque práctico:] se logra mediante la diversificación de fuentes, la implementación de sistemas de almacenamiento de energía (baterías) y la promoción de la generación distribuida (descentralización de la energía).
@@ -198,7 +194,7 @@
                   i.fas.fa-angle-right.t2
                   p.mb-0 #[b Vínculo con ACV:] es el principio clave para gestionar y reducir el impacto ambiental en la fase de fin de ciclo, cerrando el bucle de la sostenibilidad.
       .col-lg-4.d-none.d-lg-block
-        img.mb-0(alt="" src="@/assets/curso/tema2/10.png")
+        img.mb-0(src="@/assets/curso/tema2/10.png")
 
 
 </template>
