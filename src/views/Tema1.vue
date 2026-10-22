@@ -339,14 +339,14 @@
         figcaption.mb-lg-0.mb-5 Nota. Tomado de ¿Cómo leer tu factura de energía?, de Enel Colombia, 2025. 
       .col-lg-6
         .bg13.p-4
-          p.mb-4.mx-lg-5.mt-lg-1 En la Figura 4 los números corresponden de la siguiente manera:
+          p.mb-4.mx-lg-5.mt-lg-1 En la Figura 4, los números corresponden a los siguientes elementos: 
           ul.lista-ul.mb-0.mb-lg-1.mx-lg-4
             li.d-flex.mb-lg-4.mb-3
               i.fas.fa-pencil
               p.mb-0 #[b Número 1. Número de cliente:] es el número que identifica al usuario del servicio y permite realizar trámites, consultas y solicitudes relacionadas con su cuenta de energía.
             li.d-flex.mb-0
               i.fas.fa-pencil
-              p.mb-0 #[b Número 2. Datos de cliente:] corresponden a la información relacionada con la cuenta de energía, como la clase de servicio (residencial, comercial o industrial) y el número de medidor. 
+              p.mb-0 #[b Número 2. Datos del cliente:] corresponden a la información relacionada con la cuenta de energía, como la clase de servicio (residencial, comercial o industrial) y el número de medidor.
     
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-6
@@ -357,14 +357,14 @@
         figcaption.mb-lg-0.mb-5 Nota. Tomado de ¿Cómo leer tu factura de energía?, de Enel Colombia, 2025.  
       .col-lg-6
         .bg13.p-4
-          p.mb-4.mx-lg-5.mt-lg-0 En la Figura 5 los números corresponden de la siguiente manera:
+          p.mb-4.mx-lg-5.mt-lg-0 En la Figura 5, los números corresponden a los siguientes elementos:
           ul.lista-ul.mb-0.mb-lg-0.mx-lg-4
             li.d-flex.mb-1
               i.fas.fa-pencil
-              p.mb-0 #[b Número 3. Histórico de consumo:] corresponde al nombre del titular de la cuenta y a la dirección registrada en la factura. 
+              p.mb-0 #[b Número 3. Histórico de consumo:] corresponde al nombre del titular de la cuenta y a la dirección registrada en la factura.
             li.d-flex.mb-lg-1.mb-0
               i.fas.fa-pencil
-              p.mb-0 #[b Número 4. Aviso informativo:] en la factura se presenta información sobre si fue posible realizar la lectura del medidor. Además, mediante un semáforo de colores (verde, amarillo o rojo), se indica si el consumo de energía se encuentra dentro de los valores habituales o presenta un comportamiento diferente. Para consultar esta información, se debe ingresar a la página principal de la empresa.  
+              p.mb-0 #[b Número 4. Aviso informativo:] en la factura se presenta información sobre si fue posible realizar la lectura del medidor. Además, mediante un semáforo de colores (verde, amarillo o rojo), se indica si el consumo de energía se encuentra dentro de los valores habituales o presenta un comportamiento diferente. Para consultar esta información, se debe ingresar a la página principal de la empresa. 
 
     .row.justify-content-center.align-items-center.mb-lg-4.mb-5(data-aos="fade-left")
       .col-lg-12.offset-lg-0.mb-lg-5
@@ -395,7 +395,7 @@
         figcaption.mb-lg-0.mb-5 Nota. Tomado de ¿Cómo leer tu factura de energía?, de Enel Colombia, 2025.  
       .col-lg-6
         .bg13.p-4
-          p.mb-4.mx-lg-5.mt-lg-4 En la Figura 6 los números corresponden de la siguiente manera:
+          p.mb-4.mx-lg-5.mt-lg-4 En la Figura 6, los números corresponden a los siguientes elementos:
           ul.lista-ul.mb-0.mb-lg-4.mx-lg-4
             li.d-flex.mb-3
               i.fas.fa-pencil
@@ -428,11 +428,11 @@
         figcaption.mb-lg-0.mb-5 Nota. Tomado de ¿Cómo leer tu factura de energía?, de Enel Colombia, 2025. 
       .col-lg-6
         .bg13.p-4
-          p.mb-2 En la Figura 8, los números corresponden a los siguientes elementos: 
-          p.mb-3 #[b Número 1 total a pagar y valores a pagar de cada servicio y/o producto:] el valor total de la factura corresponde a todos los cobros asociados a la cuenta. Es decir, además del cobro por energía, puede incluir otros conceptos, como el servicio de aseo, Crédito Fácil CODENSA, productos y servicios de valor agregado, asistencias y publicaciones, entre otros. 
-          p.mb-3 Por cada servicio o producto incluido en la factura, se presenta un ícono con un color representativo que permite identificar fácilmente los conceptos facturados:        
-          p.mb-0 - Color verde: identifica los valores relacionados con el consumo de energía y otros cobros asociados a este servicio. 
-          p.mb-0 - Color rosado: identifica los cobros correspondientes a otros productos y servicios aplicables a la cuenta, como Crédito Fácil CODENSA, asistencias y publicaciones, entre otros. 
+          p.mb-2 En la Figura 8, los números corresponden a los siguientes elementos:
+          p.mb-3 #[b Número 1. Total a pagar y valores a pagar de cada servicio y/o producto:] el valor total de la factura corresponde a todos los cobros asociados a la cuenta. Es decir, además del cobro por energía, puede incluir otros conceptos, como el servicio de aseo, Crédito Fácil CODENSA, productos y servicios de valor agregado, asistencias y publicaciones, entre otros.    
+          p.mb-3 Por cada servicio o producto incluido en la factura, se presenta un ícono con un color representativo que permite identificar fácilmente los conceptos facturados:           
+          p.mb-0 - Color verde: identifica los valores relacionados con el consumo de energía y otros cobros asociados a este servicio.
+          p.mb-0 - Color rosado: identifica los cobros correspondientes a otros productos y servicios aplicables a la cuenta, como Crédito Fácil CODENSA, asistencias y publicaciones, entre otros.
           p.mb-0 - Color azul: identifica los valores correspondientes al cobro por el servicio de aseo.
             
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
