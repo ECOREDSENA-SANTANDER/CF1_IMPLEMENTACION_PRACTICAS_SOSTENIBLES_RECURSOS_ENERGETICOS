@@ -115,7 +115,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/22230063_CF01_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -294,7 +294,7 @@ export default {
       autores: [
         {
           nombre: 'Gianmarco Serrano Cabarcas',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -329,12 +329,12 @@ export default {
       autores: [
         {
           nombre: 'Erika Daniela Manrique Rueda',
-          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          nombre: 'Sandra Liliana Cristancho Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
